@@ -15,13 +15,15 @@ parser.addArgument ['which'],
   help: 'Which country are you looking for?'
   nargs: '+'
 
-parser.addArgument ['--where'],
-  dest: 'where'
-  help: 'Where are you looking for?'
+parser.addArgument ['--json'],
+  dest: 'asJSON'
+  help: 'Return data as JSON'
+  defaultValue: false
+  action: 'storeTrue'
 
 exports.main = (args = process.args) ->
   args = parser.parseArgs args
-  {which} = args
+  {which, asJSON} = args
   which = which.join ' '
   [keys, value] = which.split ':'
   unless value?
@@ -34,6 +36,9 @@ exports.main = (args = process.args) ->
     throw err  if err?
     unless res.headers['Content-Type'] is 'application/vnd.hyperrest.countries-v1+json'
       throw JSON.stringify res, null, 2
+    if asJSON
+      console.log JSON.stringify res, null, 2
+      return
     for country in res.body.items
       country.name_translations = _.map country.name_translations, (translation, lang) ->
         "#{translation} (#{lang})"
