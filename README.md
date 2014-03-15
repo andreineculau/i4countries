@@ -1,42 +1,45 @@
-# name [![Build Status][2]][1]
+# i4countries
 
-description
+Interface to a slim country dataset
+
+An experiment serving these purposes:
+
+- provide a CLI
+- provide an "API" (HTTP server)
+  - enacting proper HTTP usage
+  - creating/using some vendor media-types (targeting a future media-type registration)
 
 
-## Install/update
+## Install
 
-Install via  
-`bash <(curl -s https://raw.github.com/andreineculau/coffee.mk/master/install.sh)`
-
-* fix `package.json`
-* fix `AUTHORS`
-* fix `NOTICE`
-* fix `NOTICE2`
-
-Check for upstream diff via  
-`bash <(curl -s https://raw.github.com/andreineculau/coffee.mk/master/changelog.sh)`.
-
-Update via  
-`bash <(curl -s https://raw.github.com/andreineculau/coffee.mk/master/update.sh)`  
-and then commit the change in your repository.
+`npm install i4countries`
 
 
 ## Usage
 
-SHOULD be self-explanatory
+### CLI
 
+```bash
+i4countries name,lang:RO
+```
 
-## Customization
+### NodeJS
 
-* update `.gitignore`
-* add your custom make targets to `custom.mk`
-* create `test/_utils.custom.coffee` with your custom test utils
+```js
+i4countries = require 'i4countries'
+
+i4countries.search {keys: ['name', 'lang'], which: 'RO'}, (err, res) ->
+  throw err  if err?
+  if res.headers['Content-Type'] is 'application/vnd.hyperrest.countries-v1+json'
+    console.log res.body.items
+    consoel.log res.body.links
+```
+
+### HTTP API
+
+"TODO"
 
 
 ## License
 
-[Apache 2.0](LICENSE)
-
-
-  [1]: https://travis-ci.org/YOUR_GITHUB_USERNAME/YOUR_PROJECT_NAME
-  [2]: https://travis-ci.org/YOUR_GITHUB_USERNAME/YOUR_PROJECT_NAME.png
+[UNLICENSE](LICENSE)
