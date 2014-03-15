@@ -1,1 +1,5 @@
-.coffee.mk/.npmignore
+/.coffee.mk
+/Makefile
+/test
+/testem.yml
+/sources
