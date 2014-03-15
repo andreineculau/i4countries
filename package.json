@@ -28,7 +28,10 @@
   },
   "dependencies": {
     "lodash": "~2.4.1",
-    "argparse": "~0.1.15"
+    "argparse": "~0.1.15",
+    "amdefine": "~0.1.0",
+    "fs-extra": "~0.8.1",
+    "async": "~0.2.10"
   },
   "optionalDependencies": {
     "coffee-script": "~1.6.3"
