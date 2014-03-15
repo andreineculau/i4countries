@@ -62,15 +62,15 @@ define [
     countries = sources.countries
 
     for country in countries
-      fs.writeFileSync "dataset/#{country.id}.json", JSON.stringify country, null, 2
+      fs.writeFileSync "#{__dirname}/../dataset/#{country.id}.json", JSON.stringify country, null, 2
     next null, countries
 
 
   exports.dataset = (next) ->
     results = {}
-    countries = fs.readdirSync 'dataset'
+    countries = fs.readdirSync "#{__dirname}/../dataset"
     for country, index in countries
-      country = JSON.parse fs.readFileSync "dataset/#{country}"
+      country = JSON.parse fs.readFileSync "#{__dirname}/../dataset/#{country}"
       countries[index] = countries[country.id] = country
     next null, countries
 
