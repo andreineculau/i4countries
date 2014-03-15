@@ -1,0 +1,43 @@
+{
+  "name": "countri.es",
+  "description": "Interface to a slim country dataset",
+  "keywords": [
+    "country",
+    "dataset",
+    "http",
+    "api",
+    "cli"
+  ],
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreineculau/i4countries.git"
+  },
+  "licenses": [
+    {
+      "type": "Unlicense",
+      "url": "http://unlicense.org/"
+    }
+  ],
+  "bin": {
+    "i4countries": "bin/i4countries.coffee"
+  },
+  "scripts": {
+    "prepublish": "make prepublish",
+    "test": "make test"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "argparse": "~0.1.15"
+  },
+  "optionalDependencies": {
+    "coffee-script": "~1.6.3"
+  },
+  "devDependencies": {},
+  "publishConfig": {
+    "bin": {
+      "i4countries": "bin/i4countries.js"
+    },
+    "optionalDependencies": {}
+  }
+}
