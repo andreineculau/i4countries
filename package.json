@@ -31,12 +31,19 @@
     "argparse": "~0.1.15",
     "amdefine": "~0.1.0",
     "fs-extra": "~0.8.1",
-    "async": "~0.2.10"
+    "async": "~0.2.10",
+    "know-your-http-well": "~0.1.5"
   },
   "optionalDependencies": {
     "coffee-script": "~1.6.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "coffeelint": "~1.0.7",
+    "lodash": "~2.4.1",
+    "mocha": "~1.17.1",
+    "testem": "~0.6.7"
+  },
   "publishConfig": {
     "bin": {
       "i4countries": "bin/i4countries.js"
