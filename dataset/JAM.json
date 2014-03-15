@@ -1,0 +1,35 @@
+{
+  "name": "Jamaica",
+  "top_level_domains": [
+    ".jm"
+  ],
+  "iso2": "JM",
+  "iso3": "JAM",
+  "ison": 388,
+  "currencies": [
+    "JMD"
+  ],
+  "calling_codes": [
+    "1876"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Kingston",
+  "id": "JAM",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 18.25,
+    "longitude": -77.5
+  },
+  "name_translations": {
+    "de": "Jamaika",
+    "fr": "Jamaïque",
+    "it": "Giamaica",
+    "ja": "ジャマイカ",
+    "hr": "Jamajka",
+    "en": "Jamaica"
+  }
+}

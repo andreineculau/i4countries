@@ -1,0 +1,36 @@
+{
+  "name": "Angola",
+  "top_level_domains": [
+    ".ao"
+  ],
+  "iso2": "AO",
+  "iso3": "AGO",
+  "ison": 24,
+  "currencies": [
+    "AOA"
+  ],
+  "calling_codes": [
+    "244"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "capital": "Luanda",
+  "id": "AGO",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "latitude": -12.5,
+    "longitude": 18.5
+  },
+  "name_translations": {
+    "ja": "アンゴラ",
+    "pt": "Angola"
+  }
+}

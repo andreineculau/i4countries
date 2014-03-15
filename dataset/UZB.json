@@ -1,0 +1,41 @@
+{
+  "name": "Uzbekistan",
+  "top_level_domains": [
+    ".uz"
+  ],
+  "iso2": "UZ",
+  "iso3": "UZB",
+  "ison": 860,
+  "currencies": [
+    "UZS"
+  ],
+  "calling_codes": [
+    "998"
+  ],
+  "languages": [
+    "uz",
+    "ru"
+  ],
+  "capital": "Tashkent",
+  "id": "UZB",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "bordering_countries": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "latitude": 41,
+    "longitude": 64
+  },
+  "name_translations": {
+    "de": "Usbekistan",
+    "es": "Uzbekistán",
+    "fr": "Ouzbékistan",
+    "ja": "ウズベキスタン",
+    "nl": "Oezbekistan"
+  }
+}

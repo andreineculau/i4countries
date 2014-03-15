@@ -1,0 +1,39 @@
+{
+  "name": "Macau",
+  "top_level_domains": [
+    ".mo"
+  ],
+  "iso2": "MO",
+  "iso3": "MAC",
+  "ison": 446,
+  "currencies": [
+    "MOP"
+  ],
+  "calling_codes": [
+    "853"
+  ],
+  "languages": [
+    "zh",
+    "pt"
+  ],
+  "capital": "",
+  "id": "MAC",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "bordering_countries": [
+      "CHN"
+    ],
+    "latitude": 22.16666666,
+    "longitude": 113.55
+  },
+  "name_translations": {
+    "de": "Macao",
+    "es": "Macao",
+    "fr": "Macao",
+    "it": "Macao",
+    "ja": "マカオ",
+    "nl": "Macao",
+    "hr": "Makao"
+  }
+}

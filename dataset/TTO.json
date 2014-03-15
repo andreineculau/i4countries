@@ -1,0 +1,37 @@
+{
+  "name": "Trinidad and Tobago",
+  "top_level_domains": [
+    ".tt"
+  ],
+  "iso2": "TT",
+  "iso3": "TTO",
+  "ison": 780,
+  "currencies": [
+    "TTD"
+  ],
+  "calling_codes": [
+    "1868"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Port of Spain",
+  "id": "TTO",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 11,
+    "longitude": -61
+  },
+  "name_translations": {
+    "de": "Trinidad und Tobago",
+    "es": "Trinidad y Tobago",
+    "fr": "Trinité et Tobago",
+    "it": "Trinidad e Tobago",
+    "ja": "トリニダード・トバゴ",
+    "nl": "Trinidad en Tobago",
+    "hr": "Trinidad i Tobago",
+    "en": "Trinidad and Tobago"
+  }
+}

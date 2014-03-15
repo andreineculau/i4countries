@@ -1,0 +1,42 @@
+{
+  "name": "Tajikistan",
+  "top_level_domains": [
+    ".tj"
+  ],
+  "iso2": "TJ",
+  "iso3": "TJK",
+  "ison": 762,
+  "currencies": [
+    "TJS"
+  ],
+  "calling_codes": [
+    "992"
+  ],
+  "languages": [
+    "tg",
+    "ru"
+  ],
+  "capital": "Dushanbe",
+  "id": "TJK",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "bordering_countries": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "latitude": 39,
+    "longitude": 71
+  },
+  "name_translations": {
+    "de": "Tadschikistan",
+    "es": "Tayikistán",
+    "fr": "Tadjikistan",
+    "it": "Tagikistan",
+    "ja": "タジキスタン",
+    "nl": "Tadzjikistan",
+    "hr": "Tađikistan"
+  }
+}

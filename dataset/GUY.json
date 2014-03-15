@@ -1,0 +1,37 @@
+{
+  "name": "Guyana",
+  "top_level_domains": [
+    ".gy"
+  ],
+  "iso2": "GY",
+  "iso3": "GUY",
+  "ison": 328,
+  "currencies": [
+    "GYD"
+  ],
+  "calling_codes": [
+    "592"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Georgetown",
+  "id": "GUY",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "latitude": 5,
+    "longitude": -59
+  },
+  "name_translations": {
+    "fr": "Guyane",
+    "ja": "ガイアナ",
+    "hr": "Gvajana",
+    "en": "Guyana"
+  }
+}

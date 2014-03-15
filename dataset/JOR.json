@@ -1,0 +1,41 @@
+{
+  "name": "Jordan",
+  "top_level_domains": [
+    ".jo"
+  ],
+  "iso2": "JO",
+  "iso3": "JOR",
+  "ison": 400,
+  "currencies": [
+    "JOD"
+  ],
+  "calling_codes": [
+    "962"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Amman",
+  "id": "JOR",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "IRQ",
+      "ISR",
+      "SAU",
+      "SYR"
+    ],
+    "latitude": 31,
+    "longitude": 36
+  },
+  "name_translations": {
+    "de": "Jordanien",
+    "es": "Jordania",
+    "fr": "Jordanie",
+    "it": "Giordania",
+    "ja": "ヨルダン",
+    "nl": "Jordanië",
+    "ar": "الأردن"
+  }
+}

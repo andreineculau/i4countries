@@ -1,0 +1,34 @@
+{
+  "name": "Portugal",
+  "top_level_domains": [
+    ".pt"
+  ],
+  "iso2": "PT",
+  "iso3": "PRT",
+  "ison": 620,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "351"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "capital": "Lisbon",
+  "id": "PRT",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "ESP"
+    ],
+    "latitude": 39.5,
+    "longitude": -8
+  },
+  "name_translations": {
+    "it": "Portogallo",
+    "ja": "ポルトガル",
+    "pt": "Portugal"
+  }
+}

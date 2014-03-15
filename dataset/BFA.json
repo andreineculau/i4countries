@@ -1,0 +1,38 @@
+{
+  "name": "Burkina Faso",
+  "top_level_domains": [
+    ".bf"
+  ],
+  "iso2": "BF",
+  "iso3": "BFA",
+  "ison": 854,
+  "currencies": [
+    "XOF"
+  ],
+  "calling_codes": [
+    "226"
+  ],
+  "languages": [
+    "fr",
+    "ff"
+  ],
+  "capital": "Ouagadougou",
+  "id": "BFA",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "latitude": 13,
+    "longitude": -2
+  },
+  "name_translations": {
+    "ja": "ブルキナファソ"
+  }
+}

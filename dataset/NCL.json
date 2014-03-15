@@ -1,0 +1,36 @@
+{
+  "name": "New Caledonia",
+  "top_level_domains": [
+    ".nc"
+  ],
+  "iso2": "NC",
+  "iso3": "NCL",
+  "ison": 540,
+  "currencies": [
+    "XPF"
+  ],
+  "calling_codes": [
+    "687"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Nouméa",
+  "id": "NCL",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "bordering_countries": [],
+    "latitude": -21.5,
+    "longitude": 165.5
+  },
+  "name_translations": {
+    "de": "Neukaledonien",
+    "es": "Nueva Caledonia",
+    "fr": "Nouvelle-Calédonie",
+    "it": "Nuova Caledonia",
+    "ja": "ニューカレドニア",
+    "nl": "Nieuw-Caledonië",
+    "hr": "Nova Kaledonija"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Turks and Caicos Islands",
+  "top_level_domains": [
+    ".tc"
+  ],
+  "iso2": "TC",
+  "iso3": "TCA",
+  "ison": 796,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "1649"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Cockburn Town",
+  "id": "TCA",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 21.75,
+    "longitude": -71.58333333
+  },
+  "name_translations": {
+    "de": "Turks- und Caicosinseln",
+    "es": "Islas Turks y Caicos",
+    "fr": "Îles Turques-et-Caïques",
+    "it": "Isole Turks e Caicos",
+    "ja": "タークス・カイコス諸島",
+    "nl": "Turks- en Caicoseilanden",
+    "hr": "Otoci Turks i Caicos",
+    "en": "Turks and Caicos Islands"
+  }
+}

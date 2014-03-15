@@ -1,0 +1,36 @@
+{
+  "name": "Nepal",
+  "top_level_domains": [
+    ".np"
+  ],
+  "iso2": "NP",
+  "iso3": "NPL",
+  "ison": 524,
+  "currencies": [
+    "NPR"
+  ],
+  "calling_codes": [
+    "977"
+  ],
+  "languages": [
+    "ne"
+  ],
+  "capital": "Kathmandu",
+  "id": "NPL",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [
+      "CHN",
+      "IND"
+    ],
+    "latitude": 28,
+    "longitude": 84
+  },
+  "name_translations": {
+    "de": "Népal",
+    "fr": "Népal",
+    "ja": "ネパール",
+    "ne": "नपल"
+  }
+}

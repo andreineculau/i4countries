@@ -1,0 +1,38 @@
+{
+  "name": "Turkmenistan",
+  "top_level_domains": [
+    ".tm"
+  ],
+  "iso2": "TM",
+  "iso3": "TKM",
+  "ison": 795,
+  "currencies": [
+    "TMT"
+  ],
+  "calling_codes": [
+    "993"
+  ],
+  "languages": [
+    "tk",
+    "ru"
+  ],
+  "capital": "Ashgabat",
+  "id": "TKM",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "bordering_countries": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "latitude": 40,
+    "longitude": 60
+  },
+  "name_translations": {
+    "es": "Turkmenistán",
+    "fr": "Turkménistan",
+    "ja": "トルクメニスタン"
+  }
+}

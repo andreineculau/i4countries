@@ -1,0 +1,46 @@
+{
+  "name": "Turkey",
+  "top_level_domains": [
+    ".tr"
+  ],
+  "iso2": "TR",
+  "iso3": "TUR",
+  "ison": 792,
+  "currencies": [
+    "TRY"
+  ],
+  "calling_codes": [
+    "90"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "capital": "Ankara",
+  "id": "TUR",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "latitude": 39,
+    "longitude": 35
+  },
+  "name_translations": {
+    "de": "Türkei",
+    "es": "Turquía",
+    "fr": "Turquie",
+    "it": "Turchia",
+    "ja": "トルコ",
+    "nl": "Turkije",
+    "hr": "Turska",
+    "tr": "Türkiye"
+  }
+}

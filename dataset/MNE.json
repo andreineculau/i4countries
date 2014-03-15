@@ -1,0 +1,41 @@
+{
+  "name": "Montenegro",
+  "top_level_domains": [
+    ".me"
+  ],
+  "iso2": "ME",
+  "iso3": "MNE",
+  "ison": 499,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "382"
+  ],
+  "languages": [
+    "sr",
+    "bs",
+    "sq",
+    "hr"
+  ],
+  "capital": "Podgorica",
+  "id": "MNE",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "KOS",
+      "SRB"
+    ],
+    "latitude": 42.5,
+    "longitude": 19.3
+  },
+  "name_translations": {
+    "fr": "Monténégro",
+    "ja": "モンテネグロ",
+    "hr": "Crna Gora"
+  }
+}

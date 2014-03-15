@@ -1,0 +1,41 @@
+{
+  "name": "Egypt",
+  "top_level_domains": [
+    ".eg"
+  ],
+  "iso2": "EG",
+  "iso3": "EGY",
+  "ison": 818,
+  "currencies": [
+    "EGP"
+  ],
+  "calling_codes": [
+    "20"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Cairo",
+  "id": "EGY",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "bordering_countries": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "latitude": 27,
+    "longitude": 30
+  },
+  "name_translations": {
+    "de": "Ägypten",
+    "es": "Egipto",
+    "fr": "Égypte",
+    "it": "Egitto",
+    "ja": "エジプト",
+    "nl": "Egypte",
+    "hr": "Egipat",
+    "ar": "مصر‎"
+  }
+}

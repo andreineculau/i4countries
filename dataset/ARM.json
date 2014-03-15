@@ -1,0 +1,40 @@
+{
+  "name": "Armenia",
+  "top_level_domains": [
+    ".am"
+  ],
+  "iso2": "AM",
+  "iso3": "ARM",
+  "ison": 51,
+  "currencies": [
+    "AMD"
+  ],
+  "calling_codes": [
+    "374"
+  ],
+  "languages": [
+    "hy",
+    "ru"
+  ],
+  "capital": "Yerevan",
+  "id": "ARM",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "latitude": 40,
+    "longitude": 45
+  },
+  "name_translations": {
+    "de": "Armenien",
+    "fr": "Arménie",
+    "ja": "アルメニア",
+    "nl": "Armenië",
+    "hr": "Armenija"
+  }
+}

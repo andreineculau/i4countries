@@ -1,0 +1,34 @@
+{
+  "name": "Guadeloupe",
+  "top_level_domains": [
+    ".gp"
+  ],
+  "iso2": "GP",
+  "iso3": "GLP",
+  "ison": 312,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "590"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Basse-Terre",
+  "id": "GLP",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 16.25,
+    "longitude": -61.583333
+  },
+  "name_translations": {
+    "es": "Guadalupe",
+    "it": "Guadeloupa",
+    "ja": "グアドループ",
+    "hr": "Gvadalupa",
+    "fr": "Guadeloupe"
+  }
+}

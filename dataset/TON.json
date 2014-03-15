@@ -1,0 +1,31 @@
+{
+  "name": "Tonga",
+  "top_level_domains": [
+    ".to"
+  ],
+  "iso2": "TO",
+  "iso3": "TON",
+  "ison": 776,
+  "currencies": [
+    "TOP"
+  ],
+  "calling_codes": [
+    "676"
+  ],
+  "languages": [
+    "en",
+    "to"
+  ],
+  "capital": "Nuku'alofa",
+  "id": "TON",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -20,
+    "longitude": -175
+  },
+  "name_translations": {
+    "ja": "トンガ"
+  }
+}

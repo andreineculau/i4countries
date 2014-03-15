@@ -1,0 +1,41 @@
+{
+  "name": "Mozambique",
+  "top_level_domains": [
+    ".mz"
+  ],
+  "iso2": "MZ",
+  "iso3": "MOZ",
+  "ison": 508,
+  "currencies": [
+    "MZN"
+  ],
+  "calling_codes": [
+    "258"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "capital": "Maputo",
+  "id": "MOZ",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "latitude": -18.25,
+    "longitude": 35
+  },
+  "name_translations": {
+    "de": "Mosambik",
+    "it": "Mozambico",
+    "ja": "モザンビーク",
+    "hr": "Mozambik",
+    "pt": "Moçambique"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "South Georgia",
+  "top_level_domains": [
+    ".gs"
+  ],
+  "iso2": "GS",
+  "iso3": "SGS",
+  "ison": 239,
+  "currencies": [
+    "GBP"
+  ],
+  "calling_codes": [
+    "500"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "King Edward Point",
+  "id": "SGS",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [],
+    "latitude": -54.5,
+    "longitude": -37
+  },
+  "name_translations": {
+    "de": "Südgeorgien und die Südlichen Sandwichinseln",
+    "es": "Islas Georgias del Sur y Sandwich del Sur",
+    "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+    "it": "Georgia del Sud e Isole Sandwich Meridionali",
+    "ja": "サウスジョージア・サウスサンドウィッチ諸島",
+    "nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+    "hr": "Južna Georgija i otočje Južni Sandwich",
+    "en": "South Georgia"
+  }
+}

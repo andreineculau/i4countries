@@ -1,0 +1,45 @@
+{
+  "name": "Saudi Arabia",
+  "top_level_domains": [
+    ".sa"
+  ],
+  "iso2": "SA",
+  "iso3": "SAU",
+  "ison": 682,
+  "currencies": [
+    "SAR"
+  ],
+  "calling_codes": [
+    "966"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Riyadh",
+  "id": "SAU",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "latitude": 25,
+    "longitude": 45
+  },
+  "name_translations": {
+    "de": "Saudi-Arabien",
+    "es": "Arabia Saudí",
+    "fr": "Arabie Saoudite",
+    "it": "Arabia Saudita",
+    "ja": "サウジアラビア",
+    "nl": "Saoedi-Arabië",
+    "hr": "Saudijska Arabija",
+    "ar": "العربية السعودية"
+  }
+}

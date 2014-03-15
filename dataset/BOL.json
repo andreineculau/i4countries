@@ -1,0 +1,42 @@
+{
+  "name": "Bolivia",
+  "top_level_domains": [
+    ".bo"
+  ],
+  "iso2": "BO",
+  "iso3": "BOL",
+  "ison": 68,
+  "currencies": [
+    "BOB",
+    "BOV"
+  ],
+  "calling_codes": [
+    "591"
+  ],
+  "languages": [
+    "es",
+    "ay",
+    "qu"
+  ],
+  "capital": "Sucre",
+  "id": "BOL",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PRU"
+    ],
+    "latitude": -17,
+    "longitude": -65
+  },
+  "name_translations": {
+    "de": "Bolivien",
+    "fr": "Bolivie",
+    "ja": "ボリビア多民族国",
+    "hr": "Bolivija"
+  }
+}

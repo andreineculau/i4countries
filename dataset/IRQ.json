@@ -1,0 +1,43 @@
+{
+  "name": "Iraq",
+  "top_level_domains": [
+    ".iq"
+  ],
+  "iso2": "IQ",
+  "iso3": "IRQ",
+  "ison": 368,
+  "currencies": [
+    "IQD"
+  ],
+  "calling_codes": [
+    "964"
+  ],
+  "languages": [
+    "ar",
+    "ku"
+  ],
+  "capital": "Baghdad",
+  "id": "IRQ",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "latitude": 33,
+    "longitude": 44
+  },
+  "name_translations": {
+    "de": "Irak",
+    "es": "Irak",
+    "fr": "Irak",
+    "ja": "イラク",
+    "nl": "Irak",
+    "hr": "Irak"
+  }
+}

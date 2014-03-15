@@ -1,0 +1,32 @@
+{
+  "name": "Vanuatu",
+  "top_level_domains": [
+    ".vu"
+  ],
+  "iso2": "VU",
+  "iso3": "VUT",
+  "ison": 548,
+  "currencies": [
+    "VUV"
+  ],
+  "calling_codes": [
+    "678"
+  ],
+  "languages": [
+    "bi",
+    "en",
+    "fr"
+  ],
+  "capital": "Port Vila",
+  "id": "VUT",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "bordering_countries": [],
+    "latitude": -16,
+    "longitude": 167
+  },
+  "name_translations": {
+    "ja": "バヌアツ"
+  }
+}

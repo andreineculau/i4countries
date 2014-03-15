@@ -1,0 +1,43 @@
+{
+  "name": "Republic of the Congo",
+  "top_level_domains": [
+    ".cg"
+  ],
+  "iso2": "CG",
+  "iso3": "COG",
+  "ison": 178,
+  "currencies": [
+    "XAF"
+  ],
+  "calling_codes": [
+    "242"
+  ],
+  "languages": [
+    "fr",
+    "ln"
+  ],
+  "capital": "Brazzaville",
+  "id": "COG",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "latitude": -1,
+    "longitude": 15
+  },
+  "name_translations": {
+    "de": "Kongo",
+    "es": "Congo",
+    "fr": "Congo",
+    "it": "Congo",
+    "ja": "コンゴ共和国",
+    "nl": "Congo [Republiek]",
+    "hr": "Kongo"
+  }
+}

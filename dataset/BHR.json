@@ -1,0 +1,36 @@
+{
+  "name": "Bahrain",
+  "top_level_domains": [
+    ".bh"
+  ],
+  "iso2": "BH",
+  "iso3": "BHR",
+  "ison": 48,
+  "currencies": [
+    "BHD"
+  ],
+  "calling_codes": [
+    "973"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Manama",
+  "id": "BHR",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [],
+    "latitude": 26,
+    "longitude": 50.55
+  },
+  "name_translations": {
+    "es": "Bahrein",
+    "fr": "Bahreïn",
+    "it": "Bahrein",
+    "ja": "バーレーン",
+    "nl": "Bahrein",
+    "hr": "Bahrein",
+    "ar": "‏البحرين"
+  }
+}

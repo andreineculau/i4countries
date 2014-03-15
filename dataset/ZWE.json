@@ -1,0 +1,40 @@
+{
+  "name": "Zimbabwe",
+  "top_level_domains": [
+    ".zw"
+  ],
+  "iso2": "ZW",
+  "iso3": "ZWE",
+  "ison": 716,
+  "currencies": [
+    "ZWL"
+  ],
+  "calling_codes": [
+    "263"
+  ],
+  "languages": [
+    "en",
+    "sn",
+    "nd"
+  ],
+  "capital": "Harare",
+  "id": "ZWE",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "latitude": -20,
+    "longitude": 30
+  },
+  "name_translations": {
+    "de": "Simbabwe",
+    "es": "Zimbabue",
+    "ja": "ジンバブエ",
+    "hr": "Zimbabve"
+  }
+}

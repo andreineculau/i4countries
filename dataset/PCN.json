@@ -1,0 +1,37 @@
+{
+  "name": "Pitcairn Islands",
+  "top_level_domains": [
+    ".pn"
+  ],
+  "iso2": "PN",
+  "iso3": "PCN",
+  "ison": 612,
+  "currencies": [
+    "NZD"
+  ],
+  "calling_codes": [
+    "64"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Adamstown",
+  "id": "PCN",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -25.06666666,
+    "longitude": -130.1
+  },
+  "name_translations": {
+    "de": "Pitcairn",
+    "es": "Islas Pitcairn",
+    "fr": "Îles Pitcairn",
+    "it": "Isole Pitcairn",
+    "ja": "ピトケアン",
+    "nl": "Pitcairneilanden",
+    "hr": "Pitcairnovo otočje",
+    "en": "Pitcairn Islands"
+  }
+}

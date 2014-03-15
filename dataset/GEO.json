@@ -1,0 +1,40 @@
+{
+  "name": "Georgia",
+  "top_level_domains": [
+    ".ge"
+  ],
+  "iso2": "GE",
+  "iso3": "GEO",
+  "ison": 268,
+  "currencies": [
+    "GEL"
+  ],
+  "calling_codes": [
+    "995"
+  ],
+  "languages": [
+    "ka"
+  ],
+  "capital": "Tbilisi",
+  "id": "GEO",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "latitude": 42,
+    "longitude": 43.5
+  },
+  "name_translations": {
+    "de": "Georgien",
+    "fr": "Géorgie",
+    "ja": "グルジア",
+    "nl": "Georgië",
+    "hr": "Gruzija",
+    "ka": "საქართველო"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Saint Martin",
+  "top_level_domains": [
+    ".mf",
+    ".fr",
+    ".gp"
+  ],
+  "iso2": "MF",
+  "iso3": "MAF",
+  "ison": 663,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "590"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "nl"
+  ],
+  "capital": "Marigot",
+  "id": "MAF",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [
+      "SXM",
+      "NLD"
+    ],
+    "latitude": 18.08333333,
+    "longitude": -63.95
+  },
+  "name_translations": {
+    "fr": "Saint-Martin",
+    "ja": "サン・マルタン（フランス領）",
+    "nl": "Saint-Martin",
+    "hr": "Sveti Martin"
+  }
+}

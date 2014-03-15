@@ -1,0 +1,41 @@
+{
+  "name": "Macedonia",
+  "top_level_domains": [
+    ".mk"
+  ],
+  "iso2": "MK",
+  "iso3": "MKD",
+  "ison": 807,
+  "currencies": [
+    "MKD"
+  ],
+  "calling_codes": [
+    "389"
+  ],
+  "languages": [
+    "mk"
+  ],
+  "capital": "Skopje",
+  "id": "MKD",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "KOS",
+      "SRB"
+    ],
+    "latitude": 41.83333333,
+    "longitude": 22
+  },
+  "name_translations": {
+    "de": "Mazedonien",
+    "fr": "Macédoine",
+    "ja": "マケドニア旧ユーゴスラビア共和国",
+    "nl": "Macedonië",
+    "hr": "Makedonija",
+    "mk": "Македонија"
+  }
+}

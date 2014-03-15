@@ -1,0 +1,43 @@
+{
+  "name": "Belgium",
+  "top_level_domains": [
+    ".be"
+  ],
+  "iso2": "BE",
+  "iso3": "BEL",
+  "ison": 56,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "32"
+  ],
+  "languages": [
+    "nl",
+    "fr",
+    "de"
+  ],
+  "capital": "Brussels",
+  "id": "BEL",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "latitude": 50.83333333,
+    "longitude": 4
+  },
+  "name_translations": {
+    "de": "Belgien",
+    "es": "Bélgica",
+    "fr": "Belgique",
+    "it": "Belgio",
+    "ja": "ベルギー",
+    "nl": "België",
+    "hr": "Belgija"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Iran",
+  "top_level_domains": [
+    ".ir"
+  ],
+  "iso2": "IR",
+  "iso3": "IRN",
+  "ison": 364,
+  "currencies": [
+    "IRR"
+  ],
+  "calling_codes": [
+    "98"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "capital": "Tehran",
+  "id": "IRN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "latitude": 32,
+    "longitude": 53
+  },
+  "name_translations": {
+    "ja": "イラン・イスラム共和国",
+    "fa": "Irān"
+  }
+}

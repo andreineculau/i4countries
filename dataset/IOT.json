@@ -1,0 +1,37 @@
+{
+  "name": "British Indian Ocean Territory",
+  "top_level_domains": [
+    ".io"
+  ],
+  "iso2": "IO",
+  "iso3": "IOT",
+  "ison": 86,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "246"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Diego Garcia",
+  "id": "IOT",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [],
+    "latitude": -6,
+    "longitude": 71.5
+  },
+  "name_translations": {
+    "de": "Britisches Territorium im Indischen Ozean",
+    "es": "Territorio Británico del Océano Índico",
+    "fr": "Territoire britannique de l'océan Indien",
+    "it": "Territorio britannico dell'oceano indiano",
+    "ja": "イギリス領インド洋地域",
+    "nl": "Britse Gebieden in de Indische Oceaan",
+    "hr": "Britanski Indijskooceanski teritorij",
+    "en": "British Indian Ocean Territory"
+  }
+}

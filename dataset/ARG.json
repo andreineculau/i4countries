@@ -1,0 +1,40 @@
+{
+  "name": "Argentina",
+  "top_level_domains": [
+    ".ar"
+  ],
+  "iso2": "AR",
+  "iso3": "ARG",
+  "ison": 32,
+  "currencies": [
+    "ARS"
+  ],
+  "calling_codes": [
+    "54"
+  ],
+  "languages": [
+    "es",
+    "gn"
+  ],
+  "capital": "Buenos Aires",
+  "id": "ARG",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "latitude": -34,
+    "longitude": -64
+  },
+  "name_translations": {
+    "de": "Argentinien",
+    "fr": "Argentine",
+    "ja": "アルゼンチン",
+    "nl": "Argentinië"
+  }
+}

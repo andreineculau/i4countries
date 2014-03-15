@@ -1,0 +1,41 @@
+{
+  "name": "Norway",
+  "top_level_domains": [
+    ".no"
+  ],
+  "iso2": "NO",
+  "iso3": "NOR",
+  "ison": 578,
+  "currencies": [
+    "NOK"
+  ],
+  "calling_codes": [
+    "47"
+  ],
+  "languages": [
+    "no"
+  ],
+  "capital": "Oslo",
+  "id": "NOR",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "latitude": 62,
+    "longitude": 10
+  },
+  "name_translations": {
+    "de": "Norwegen",
+    "es": "Noruega",
+    "fr": "Norvège",
+    "it": "Norvegia",
+    "ja": "ノルウェー",
+    "nl": "Noorwegen",
+    "hr": "Norveška",
+    "no": "Norge"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "United States Virgin Islands",
+  "top_level_domains": [
+    ".vi"
+  ],
+  "iso2": "VI",
+  "iso3": "VIR",
+  "ison": 850,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "1340"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Charlotte Amalie",
+  "id": "VIR",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 18.35,
+    "longitude": -64.933333
+  },
+  "name_translations": {
+    "de": "Amerikanische Jungferninseln",
+    "es": "Islas Vírgenes de los Estados Unidos",
+    "fr": "Îles Vierges des États-Unis",
+    "it": "Isole Vergini americane",
+    "ja": "アメリカ領ヴァージン諸島",
+    "nl": "Amerikaanse Maagdeneilanden",
+    "hr": "Američki Djevičanski Otoci",
+    "en": "United States Virgin Islands"
+  }
+}

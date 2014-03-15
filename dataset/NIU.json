@@ -1,0 +1,31 @@
+{
+  "name": "Niue",
+  "top_level_domains": [
+    ".nu"
+  ],
+  "iso2": "NU",
+  "iso3": "NIU",
+  "ison": 570,
+  "currencies": [
+    "NZD"
+  ],
+  "calling_codes": [
+    "683"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Alofi",
+  "id": "NIU",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -19.03333333,
+    "longitude": -169.86666666
+  },
+  "name_translations": {
+    "ja": "ニウエ",
+    "en": "Niuē"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Swaziland",
+  "top_level_domains": [
+    ".sz"
+  ],
+  "iso2": "SZ",
+  "iso3": "SWZ",
+  "ison": 748,
+  "currencies": [
+    "SZL"
+  ],
+  "calling_codes": [
+    "268"
+  ],
+  "languages": [
+    "en",
+    "ss"
+  ],
+  "capital": "Lobamba",
+  "id": "SWZ",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "bordering_countries": [
+      "MOZ",
+      "ZAF"
+    ],
+    "latitude": -26.5,
+    "longitude": 31.5
+  },
+  "name_translations": {
+    "de": "Swasiland",
+    "es": "Suazilandia",
+    "ja": "スワジランド",
+    "hr": "Svazi"
+  }
+}

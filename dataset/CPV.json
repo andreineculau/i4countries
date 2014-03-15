@@ -1,0 +1,37 @@
+{
+  "name": "Cape Verde",
+  "top_level_domains": [
+    ".cv"
+  ],
+  "iso2": "CV",
+  "iso3": "CPV",
+  "ison": 132,
+  "currencies": [
+    "CVE"
+  ],
+  "calling_codes": [
+    "238"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "capital": "Praia",
+  "id": "CPV",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [],
+    "latitude": 16,
+    "longitude": -24
+  },
+  "name_translations": {
+    "de": "Kap Verde",
+    "es": "Cabo Verde",
+    "fr": "Cap Vert",
+    "it": "Capo Verde",
+    "ja": "カーボベルデ",
+    "nl": "Kaapverdië",
+    "hr": "Zelenortska Republika",
+    "pt": "Cabo Verde"
+  }
+}

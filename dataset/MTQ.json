@@ -1,0 +1,33 @@
+{
+  "name": "Martinique",
+  "top_level_domains": [
+    ".mq"
+  ],
+  "iso2": "MQ",
+  "iso3": "MTQ",
+  "ison": 474,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "596"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Fort-de-France",
+  "id": "MTQ",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 14.666667,
+    "longitude": -61
+  },
+  "name_translations": {
+    "es": "Martinica",
+    "it": "Martinica",
+    "ja": "マルティニーク",
+    "fr": "Martinique"
+  }
+}

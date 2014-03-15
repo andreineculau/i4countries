@@ -1,0 +1,42 @@
+{
+  "name": "Spain",
+  "top_level_domains": [
+    ".es"
+  ],
+  "iso2": "ES",
+  "iso3": "ESP",
+  "ison": 724,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "34"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Madrid",
+  "id": "ESP",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "latitude": 40,
+    "longitude": -4
+  },
+  "name_translations": {
+    "de": "Spanien",
+    "es": "España",
+    "fr": "Espagne",
+    "it": "Spagna",
+    "ja": "スペイン",
+    "nl": "Spanje",
+    "hr": "Španjolska"
+  }
+}

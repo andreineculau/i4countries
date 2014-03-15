@@ -1,0 +1,36 @@
+{
+  "name": "Maldives",
+  "top_level_domains": [
+    ".mv"
+  ],
+  "iso2": "MV",
+  "iso3": "MDV",
+  "ison": 462,
+  "currencies": [
+    "MVR"
+  ],
+  "calling_codes": [
+    "960"
+  ],
+  "languages": [
+    "dv"
+  ],
+  "capital": "Malé",
+  "id": "MDV",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [],
+    "latitude": 3.25,
+    "longitude": 73
+  },
+  "name_translations": {
+    "de": "Malediven",
+    "es": "Maldivas",
+    "it": "Maldive",
+    "ja": "モルディブ",
+    "nl": "Maldiven",
+    "hr": "Maldivi",
+    "dv": "Maldives"
+  }
+}

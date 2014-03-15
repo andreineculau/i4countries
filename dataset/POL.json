@@ -1,0 +1,45 @@
+{
+  "name": "Poland",
+  "top_level_domains": [
+    ".pl"
+  ],
+  "iso2": "PL",
+  "iso3": "POL",
+  "ison": 616,
+  "currencies": [
+    "PLN"
+  ],
+  "calling_codes": [
+    "48"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "capital": "Warsaw",
+  "id": "POL",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "latitude": 52,
+    "longitude": 20
+  },
+  "name_translations": {
+    "de": "Polen",
+    "es": "Polonia",
+    "fr": "Pologne",
+    "it": "Polonia",
+    "ja": "ポーランド",
+    "nl": "Polen",
+    "hr": "Poljska",
+    "pl": "Polska"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Finland",
+  "top_level_domains": [
+    ".fi"
+  ],
+  "iso2": "FI",
+  "iso3": "FIN",
+  "ison": 246,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "358"
+  ],
+  "languages": [
+    "fi",
+    "sv"
+  ],
+  "capital": "Helsinki",
+  "id": "FIN",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "latitude": 64,
+    "longitude": 26
+  },
+  "name_translations": {
+    "de": "Finnland",
+    "es": "Finlandia",
+    "fr": "Finlande",
+    "it": "Finlandia",
+    "ja": "フィンランド",
+    "hr": "Finska"
+  }
+}

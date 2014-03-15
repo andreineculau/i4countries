@@ -1,0 +1,40 @@
+{
+  "name": "Equatorial Guinea",
+  "top_level_domains": [
+    ".gq"
+  ],
+  "iso2": "GQ",
+  "iso3": "GNQ",
+  "ison": 226,
+  "currencies": [
+    "XAF"
+  ],
+  "calling_codes": [
+    "240"
+  ],
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "capital": "Malabo",
+  "id": "GNQ",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [
+      "CMR",
+      "GAB"
+    ],
+    "latitude": 2,
+    "longitude": 10
+  },
+  "name_translations": {
+    "de": "Äquatorial-Guinea",
+    "es": "Guinea Ecuatorial",
+    "fr": "Guinée-Équatoriale",
+    "it": "Guinea Equatoriale",
+    "ja": "赤道ギニア",
+    "nl": "Equatoriaal-Guinea",
+    "hr": "Ekvatorijalna Gvineja"
+  }
+}

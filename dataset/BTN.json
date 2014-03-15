@@ -1,0 +1,38 @@
+{
+  "name": "Bhutan",
+  "top_level_domains": [
+    ".bt"
+  ],
+  "iso2": "BT",
+  "iso3": "BTN",
+  "ison": 64,
+  "currencies": [
+    "BTN",
+    "INR"
+  ],
+  "calling_codes": [
+    "975"
+  ],
+  "languages": [
+    "dz"
+  ],
+  "capital": "Thimphu",
+  "id": "BTN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [
+      "CHN",
+      "IND"
+    ],
+    "latitude": 27.5,
+    "longitude": 90.5
+  },
+  "name_translations": {
+    "es": "Bután",
+    "fr": "Bhoutan",
+    "ja": "ブータン",
+    "hr": "Butan",
+    "dz": "ʼbrug-yul"
+  }
+}

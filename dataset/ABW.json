@@ -1,0 +1,31 @@
+{
+  "name": "Aruba",
+  "top_level_domains": [
+    ".aw"
+  ],
+  "iso2": "AW",
+  "iso3": "ABW",
+  "ison": 533,
+  "currencies": [
+    "AWG"
+  ],
+  "calling_codes": [
+    "297"
+  ],
+  "languages": [
+    "nl",
+    "pa"
+  ],
+  "capital": "Oranjestad",
+  "id": "ABW",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 12.5,
+    "longitude": -69.96666666
+  },
+  "name_translations": {
+    "ja": "アルバ"
+  }
+}

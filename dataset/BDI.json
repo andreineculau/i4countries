@@ -1,0 +1,35 @@
+{
+  "name": "Burundi",
+  "top_level_domains": [
+    ".bi"
+  ],
+  "iso2": "BI",
+  "iso3": "BDI",
+  "ison": 108,
+  "currencies": [
+    "BIF"
+  ],
+  "calling_codes": [
+    "257"
+  ],
+  "languages": [
+    "fr",
+    "rn"
+  ],
+  "capital": "Bujumbura",
+  "id": "BDI",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "latitude": -3.5,
+    "longitude": 30
+  },
+  "name_translations": {
+    "ja": "ブルンジ"
+  }
+}

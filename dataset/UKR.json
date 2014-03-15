@@ -1,0 +1,43 @@
+{
+  "name": "Ukraine",
+  "top_level_domains": [
+    ".ua"
+  ],
+  "iso2": "UA",
+  "iso3": "UKR",
+  "ison": 804,
+  "currencies": [
+    "UAH"
+  ],
+  "calling_codes": [
+    "380"
+  ],
+  "languages": [
+    "uk"
+  ],
+  "capital": "Kiev",
+  "id": "UKR",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "latitude": 49,
+    "longitude": 32
+  },
+  "name_translations": {
+    "es": "Ucrania",
+    "it": "Ucraina",
+    "ja": "ウクライナ",
+    "nl": "Oekraïne",
+    "hr": "Ukrajina",
+    "uk": "Україна"
+  }
+}

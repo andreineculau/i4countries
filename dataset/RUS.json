@@ -1,0 +1,51 @@
+{
+  "name": "Russia",
+  "top_level_domains": [
+    ".ru"
+  ],
+  "iso2": "RU",
+  "iso3": "RUS",
+  "ison": 643,
+  "currencies": [
+    "RUB"
+  ],
+  "calling_codes": [
+    "7"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "capital": "Moscow",
+  "id": "RUS",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "latitude": 60,
+    "longitude": 100
+  },
+  "name_translations": {
+    "de": "Russland",
+    "es": "Rusia",
+    "fr": "Russie",
+    "ja": "ロシア連邦",
+    "nl": "Rusland",
+    "hr": "Rusija",
+    "ru": "Россия"
+  }
+}

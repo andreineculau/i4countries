@@ -1,0 +1,39 @@
+{
+  "name": "Papua New Guinea",
+  "top_level_domains": [
+    ".pg"
+  ],
+  "iso2": "PG",
+  "iso3": "PNG",
+  "ison": 598,
+  "currencies": [
+    "PGK"
+  ],
+  "calling_codes": [
+    "675"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Port Moresby",
+  "id": "PNG",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "bordering_countries": [
+      "IDN"
+    ],
+    "latitude": -6,
+    "longitude": 147
+  },
+  "name_translations": {
+    "de": "Papua-Neuguinea",
+    "es": "Papúa Nueva Guinea",
+    "fr": "Papouasie-Nouvelle-Guinée",
+    "it": "Papua Nuova Guinea",
+    "ja": "パプアニューギニア",
+    "nl": "Papoea-Nieuw-Guinea",
+    "hr": "Papua Nova Gvineja",
+    "en": "Papua Niugini"
+  }
+}

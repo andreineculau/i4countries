@@ -1,0 +1,43 @@
+{
+  "name": "Belarus",
+  "top_level_domains": [
+    ".by"
+  ],
+  "iso2": "BY",
+  "iso3": "BLR",
+  "ison": 112,
+  "currencies": [
+    "BYR"
+  ],
+  "calling_codes": [
+    "375"
+  ],
+  "languages": [
+    "be",
+    "ru"
+  ],
+  "capital": "Minsk",
+  "id": "BLR",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "latitude": 53,
+    "longitude": 28
+  },
+  "name_translations": {
+    "de": "Weißrussland",
+    "es": "Bielorrusia",
+    "fr": "Biélorussie",
+    "it": "Bielorussia",
+    "ja": "ベラルーシ",
+    "nl": "Wit-Rusland",
+    "hr": "Bjelorusija"
+  }
+}

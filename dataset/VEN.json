@@ -1,0 +1,35 @@
+{
+  "name": "Venezuela",
+  "top_level_domains": [
+    ".ve"
+  ],
+  "iso2": "VE",
+  "iso3": "VEN",
+  "ison": 862,
+  "currencies": [
+    "VEF"
+  ],
+  "calling_codes": [
+    "58"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Caracas",
+  "id": "VEN",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "latitude": 8,
+    "longitude": -66
+  },
+  "name_translations": {
+    "ja": "ベネズエラ・ボリバル共和国",
+    "es": "Venezuela"
+  }
+}

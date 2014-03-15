@@ -1,0 +1,39 @@
+{
+  "name": "Moldova",
+  "top_level_domains": [
+    ".md"
+  ],
+  "iso2": "MD",
+  "iso3": "MDA",
+  "ison": 498,
+  "currencies": [
+    "MDL"
+  ],
+  "calling_codes": [
+    "373"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "capital": "Chișinău",
+  "id": "MDA",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "ROU",
+      "UKR"
+    ],
+    "latitude": 47,
+    "longitude": 29
+  },
+  "name_translations": {
+    "de": "Moldawie",
+    "es": "Moldavia",
+    "fr": "Moldavie",
+    "it": "Moldavia",
+    "ja": "モルドバ共和国",
+    "nl": "Moldavië",
+    "ro": "Moldova"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Uruguay",
+  "top_level_domains": [
+    ".uy"
+  ],
+  "iso2": "UY",
+  "iso3": "URY",
+  "ison": 858,
+  "currencies": [
+    "UYI",
+    "UYU"
+  ],
+  "calling_codes": [
+    "598"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Montevideo",
+  "id": "URY",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "ARG",
+      "BRA"
+    ],
+    "latitude": -33,
+    "longitude": -56
+  },
+  "name_translations": {
+    "ja": "ウルグアイ",
+    "hr": "Urugvaj",
+    "es": "Uruguay"
+  }
+}

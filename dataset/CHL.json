@@ -1,0 +1,40 @@
+{
+  "name": "Chile",
+  "top_level_domains": [
+    ".cl"
+  ],
+  "iso2": "CL",
+  "iso3": "CHL",
+  "ison": 152,
+  "currencies": [
+    "CLF",
+    "CLP"
+  ],
+  "calling_codes": [
+    "56"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Santiago",
+  "id": "CHL",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "latitude": -30,
+    "longitude": -71
+  },
+  "name_translations": {
+    "fr": "Chili",
+    "it": "Cile",
+    "ja": "チリ",
+    "nl": "Chili",
+    "hr": "Čile",
+    "es": "Chile"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "India",
+  "top_level_domains": [
+    ".in"
+  ],
+  "iso2": "IN",
+  "iso3": "IND",
+  "ison": 356,
+  "currencies": [
+    "INR"
+  ],
+  "calling_codes": [
+    "91"
+  ],
+  "languages": [
+    "hi",
+    "en"
+  ],
+  "capital": "New Delhi",
+  "id": "IND",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [
+      "AFG",
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK",
+      "LKA"
+    ],
+    "latitude": 20,
+    "longitude": 77
+  },
+  "name_translations": {
+    "de": "Indien",
+    "fr": "Inde",
+    "ja": "インド",
+    "hr": "Indija"
+  }
+}

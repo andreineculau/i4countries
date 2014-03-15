@@ -1,0 +1,42 @@
+{
+  "name": "Croatia",
+  "top_level_domains": [
+    ".hr"
+  ],
+  "iso2": "HR",
+  "iso3": "HRV",
+  "ison": 191,
+  "currencies": [
+    "HRK"
+  ],
+  "calling_codes": [
+    "385"
+  ],
+  "languages": [
+    "hr"
+  ],
+  "capital": "Zagreb",
+  "id": "HRV",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "latitude": 45.16666666,
+    "longitude": 15.5
+  },
+  "name_translations": {
+    "de": "Kroatien",
+    "es": "Croacia",
+    "fr": "Croatie",
+    "it": "Croazia",
+    "ja": "クロアチア",
+    "nl": "Kroatië",
+    "hr": "Hrvatska"
+  }
+}

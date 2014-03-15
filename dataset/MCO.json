@@ -1,0 +1,36 @@
+{
+  "name": "Monaco",
+  "top_level_domains": [
+    ".mc"
+  ],
+  "iso2": "MC",
+  "iso3": "MCO",
+  "ison": 492,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "377"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Monaco",
+  "id": "MCO",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "FRA"
+    ],
+    "latitude": 43.73333333,
+    "longitude": 7.4
+  },
+  "name_translations": {
+    "es": "Mónaco",
+    "it": "Principato di Monaco",
+    "ja": "モナコ",
+    "hr": "Monako",
+    "fr": "Monaco"
+  }
+}

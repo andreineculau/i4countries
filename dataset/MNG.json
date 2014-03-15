@@ -1,0 +1,38 @@
+{
+  "name": "Mongolia",
+  "top_level_domains": [
+    ".mn"
+  ],
+  "iso2": "MN",
+  "iso3": "MNG",
+  "ison": 496,
+  "currencies": [
+    "MNT"
+  ],
+  "calling_codes": [
+    "976"
+  ],
+  "languages": [
+    "mn"
+  ],
+  "capital": "Ulan Bator",
+  "id": "MNG",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "bordering_countries": [
+      "CHN",
+      "RUS"
+    ],
+    "latitude": 46,
+    "longitude": 105
+  },
+  "name_translations": {
+    "de": "Mongolei",
+    "fr": "Mongolie",
+    "ja": "モンゴル",
+    "nl": "Mongolië",
+    "hr": "Mongolija",
+    "mn": "Монгол улс"
+  }
+}

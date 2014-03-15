@@ -1,0 +1,42 @@
+{
+  "name": "Latvia",
+  "top_level_domains": [
+    ".lv"
+  ],
+  "iso2": "LV",
+  "iso3": "LVA",
+  "ison": 428,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "371"
+  ],
+  "languages": [
+    "lv"
+  ],
+  "capital": "Riga",
+  "id": "LVA",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "latitude": 57,
+    "longitude": 25
+  },
+  "name_translations": {
+    "de": "Lettland",
+    "es": "Letonia",
+    "fr": "Lettonie",
+    "it": "Lettonia",
+    "ja": "ラトビア",
+    "nl": "Letland",
+    "hr": "Latvija",
+    "lv": "Latvija"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Tuvalu",
+  "top_level_domains": [
+    ".tv"
+  ],
+  "iso2": "TV",
+  "iso3": "TUV",
+  "ison": 798,
+  "currencies": [
+    "AUD"
+  ],
+  "calling_codes": [
+    "688"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Funafuti",
+  "id": "TUV",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -8,
+    "longitude": 178
+  },
+  "name_translations": {
+    "ja": "ツバル",
+    "en": "Tuvalu"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Gibraltar",
+  "top_level_domains": [
+    ".gi"
+  ],
+  "iso2": "GI",
+  "iso3": "GIB",
+  "ison": 292,
+  "currencies": [
+    "GIP"
+  ],
+  "calling_codes": [
+    "350"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Gibraltar",
+  "id": "GIB",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "ESP"
+    ],
+    "latitude": 36.13333333,
+    "longitude": -5.35
+  },
+  "name_translations": {
+    "it": "Gibilterra",
+    "ja": "ジブラルタル",
+    "en": "Gibraltar"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Kenya",
+  "top_level_domains": [
+    ".ke"
+  ],
+  "iso2": "KE",
+  "iso3": "KEN",
+  "ison": 404,
+  "currencies": [
+    "KES"
+  ],
+  "calling_codes": [
+    "254"
+  ],
+  "languages": [
+    "en",
+    "sw"
+  ],
+  "capital": "Nairobi",
+  "id": "KEN",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "latitude": 1,
+    "longitude": 38
+  },
+  "name_translations": {
+    "de": "Kenia",
+    "es": "Kenia",
+    "ja": "ケニア",
+    "nl": "Kenia",
+    "hr": "Kenija"
+  }
+}

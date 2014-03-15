@@ -1,0 +1,43 @@
+{
+  "name": "Chad",
+  "top_level_domains": [
+    ".td"
+  ],
+  "iso2": "TD",
+  "iso3": "TCD",
+  "ison": 148,
+  "currencies": [
+    "XAF"
+  ],
+  "calling_codes": [
+    "235"
+  ],
+  "languages": [
+    "fr",
+    "ar"
+  ],
+  "capital": "N'Djamena",
+  "id": "TCD",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SSD"
+    ],
+    "latitude": 15,
+    "longitude": 19
+  },
+  "name_translations": {
+    "de": "Tschad",
+    "fr": "Tchad",
+    "it": "Ciad",
+    "ja": "チャド",
+    "nl": "Tsjaad",
+    "hr": "Čad"
+  }
+}

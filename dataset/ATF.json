@@ -1,0 +1,36 @@
+{
+  "name": "French Southern and Antarctic Lands",
+  "top_level_domains": [
+    ".tf"
+  ],
+  "iso2": "TF",
+  "iso3": "ATF",
+  "ison": 260,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    ""
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Port-aux-Français",
+  "id": "ATF",
+  "geolocation": {
+    "region": "",
+    "subregion": "",
+    "bordering_countries": [],
+    "latitude": -49.25,
+    "longitude": 69.167
+  },
+  "name_translations": {
+    "de": "Französische Süd- und Antarktisgebiete",
+    "es": "Tierras Australes y Antárticas Francesas",
+    "fr": "Territoire des Terres australes et antarctiques françaises",
+    "it": "Territori Francesi del Sud",
+    "ja": "フランス領南方・南極地域",
+    "nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
+    "hr": "Francuski južni i antarktički teritoriji"
+  }
+}

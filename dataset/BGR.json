@@ -1,0 +1,41 @@
+{
+  "name": "Bulgaria",
+  "top_level_domains": [
+    ".bg"
+  ],
+  "iso2": "BG",
+  "iso3": "BGR",
+  "ison": 100,
+  "currencies": [
+    "BGN"
+  ],
+  "calling_codes": [
+    "359"
+  ],
+  "languages": [
+    "bg"
+  ],
+  "capital": "Sofia",
+  "id": "BGR",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "latitude": 43,
+    "longitude": 25
+  },
+  "name_translations": {
+    "de": "Bulgarien",
+    "fr": "Bulgarie",
+    "ja": "ブルガリア",
+    "nl": "Bulgarije",
+    "hr": "Bugarska",
+    "bg": "България"
+  }
+}

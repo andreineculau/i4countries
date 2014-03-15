@@ -1,0 +1,36 @@
+{
+  "name": "French Polynesia",
+  "top_level_domains": [
+    ".pf"
+  ],
+  "iso2": "PF",
+  "iso3": "PYF",
+  "ison": 258,
+  "currencies": [
+    "XPF"
+  ],
+  "calling_codes": [
+    "689"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Papeetē",
+  "id": "PYF",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -15,
+    "longitude": -140
+  },
+  "name_translations": {
+    "de": "Französisch-Polynesien",
+    "es": "Polinesia Francesa",
+    "fr": "Polynésie française",
+    "it": "Polinesia Francese",
+    "ja": "フランス領ポリネシア",
+    "nl": "Frans-Polynesië",
+    "hr": "Francuska Polinezija"
+  }
+}

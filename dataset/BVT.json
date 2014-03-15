@@ -1,0 +1,34 @@
+{
+  "name": "Bouvet Island",
+  "top_level_domains": [
+    ".bv"
+  ],
+  "iso2": "BV",
+  "iso3": "BVT",
+  "ison": 74,
+  "currencies": [
+    "NOK"
+  ],
+  "calling_codes": [
+    ""
+  ],
+  "languages": [],
+  "capital": "",
+  "id": "BVT",
+  "geolocation": {
+    "region": "",
+    "subregion": "",
+    "bordering_countries": [],
+    "latitude": -54.43333333,
+    "longitude": 3.4
+  },
+  "name_translations": {
+    "de": "Bouvetinsel",
+    "es": "Isla Bouvet",
+    "fr": "Île Bouvet",
+    "it": "Isola Bouvet",
+    "ja": "ブーベ島",
+    "nl": "Bouveteiland",
+    "hr": "Otok Bouvet"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Saint Helena",
+  "top_level_domains": [
+    ".sh"
+  ],
+  "iso2": "SH",
+  "iso3": "SHN",
+  "ison": 654,
+  "currencies": [
+    "SHP"
+  ],
+  "calling_codes": [
+    "290"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Jamestown",
+  "id": "SHN",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [],
+    "latitude": -15.95,
+    "longitude": -5.7
+  },
+  "name_translations": {
+    "de": "Sankt Helena",
+    "es": "Santa Helena",
+    "fr": "Sainte-Hélène",
+    "it": "Sant'Elena",
+    "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+    "nl": "Sint-Helena",
+    "hr": "Sveta Helena",
+    "en": "Saint Helena"
+  }
+}

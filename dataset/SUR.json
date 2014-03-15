@@ -1,0 +1,39 @@
+{
+  "name": "Suriname",
+  "top_level_domains": [
+    ".sr"
+  ],
+  "iso2": "SR",
+  "iso3": "SUR",
+  "ison": 740,
+  "currencies": [
+    "SRD"
+  ],
+  "calling_codes": [
+    "597"
+  ],
+  "languages": [
+    "nl"
+  ],
+  "capital": "Paramaribo",
+  "id": "SUR",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "BRA",
+      "GUF",
+      "FRA",
+      "GUY"
+    ],
+    "latitude": 4,
+    "longitude": -56
+  },
+  "name_translations": {
+    "es": "Surinam",
+    "fr": "Surinam",
+    "ja": "スリナム",
+    "hr": "Surinam",
+    "nl": "Suriname"
+  }
+}

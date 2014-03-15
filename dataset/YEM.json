@@ -1,0 +1,38 @@
+{
+  "name": "Yemen",
+  "top_level_domains": [
+    ".ye"
+  ],
+  "iso2": "YE",
+  "iso3": "YEM",
+  "ison": 887,
+  "currencies": [
+    "YER"
+  ],
+  "calling_codes": [
+    "967"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Sana'a",
+  "id": "YEM",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "OMN",
+      "SAU"
+    ],
+    "latitude": 15,
+    "longitude": 48
+  },
+  "name_translations": {
+    "de": "Jemen",
+    "fr": "Yémen",
+    "ja": "イエメン",
+    "nl": "Jemen",
+    "hr": "Jemen",
+    "ar": "اليَمَن"
+  }
+}

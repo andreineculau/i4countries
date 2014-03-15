@@ -1,0 +1,36 @@
+{
+  "name": "Canada",
+  "top_level_domains": [
+    ".ca"
+  ],
+  "iso2": "CA",
+  "iso3": "CAN",
+  "ison": 124,
+  "currencies": [
+    "CAD"
+  ],
+  "calling_codes": [
+    "1"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "capital": "Ottawa",
+  "id": "CAN",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Northern America",
+    "bordering_countries": [
+      "USA"
+    ],
+    "latitude": 60,
+    "longitude": -95
+  },
+  "name_translations": {
+    "de": "Kanada",
+    "es": "Canadá",
+    "ja": "カナダ",
+    "hr": "Kanada"
+  }
+}

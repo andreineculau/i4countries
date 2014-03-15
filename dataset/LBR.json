@@ -1,0 +1,36 @@
+{
+  "name": "Liberia",
+  "top_level_domains": [
+    ".lr"
+  ],
+  "iso2": "LR",
+  "iso3": "LBR",
+  "ison": 430,
+  "currencies": [
+    "LRD"
+  ],
+  "calling_codes": [
+    "231"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Monrovia",
+  "id": "LBR",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "latitude": 6.5,
+    "longitude": -9.5
+  },
+  "name_translations": {
+    "ja": "リベリア",
+    "hr": "Liberija",
+    "en": "Liberia"
+  }
+}

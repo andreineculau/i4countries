@@ -1,0 +1,35 @@
+{
+  "name": "Australia",
+  "top_level_domains": [
+    ".au"
+  ],
+  "iso2": "AU",
+  "iso3": "AUS",
+  "ison": 36,
+  "currencies": [
+    "AUD"
+  ],
+  "calling_codes": [
+    "61"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Canberra",
+  "id": "AUS",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "bordering_countries": [],
+    "latitude": -27,
+    "longitude": 133
+  },
+  "name_translations": {
+    "de": "Australien",
+    "fr": "Australie",
+    "ja": "オーストラリア",
+    "nl": "Australië",
+    "hr": "Australija",
+    "en": "Australia"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Mauritius",
+  "top_level_domains": [
+    ".mu"
+  ],
+  "iso2": "MU",
+  "iso3": "MUS",
+  "ison": 480,
+  "currencies": [
+    "MUR"
+  ],
+  "calling_codes": [
+    "230"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Port Louis",
+  "id": "MUS",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [],
+    "latitude": -20.28333333,
+    "longitude": 57.55
+  },
+  "name_translations": {
+    "es": "Mauricio",
+    "fr": "Île Maurice",
+    "ja": "モーリシャス",
+    "hr": "Mauricijus",
+    "en": "Maurice"
+  }
+}

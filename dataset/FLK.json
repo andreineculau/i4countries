@@ -1,0 +1,37 @@
+{
+  "name": "Falkland Islands",
+  "top_level_domains": [
+    ".fk"
+  ],
+  "iso2": "FK",
+  "iso3": "FLK",
+  "ison": 238,
+  "currencies": [
+    "FKP"
+  ],
+  "calling_codes": [
+    "500"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Stanley",
+  "id": "FLK",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [],
+    "latitude": -51.75,
+    "longitude": -59
+  },
+  "name_translations": {
+    "de": "Falklandinseln",
+    "es": "Islas Malvinas",
+    "fr": "Îles Malouines",
+    "it": "Isole Falkland o Isole Malvine",
+    "ja": "フォークランド（マルビナス）諸島",
+    "nl": "Falklandeilanden [Islas Malvinas]",
+    "hr": "Falklandski Otoci",
+    "en": "Falkland Islands"
+  }
+}

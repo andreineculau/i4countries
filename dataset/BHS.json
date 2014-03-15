@@ -1,0 +1,33 @@
+{
+  "name": "Bahamas",
+  "top_level_domains": [
+    ".bs"
+  ],
+  "iso2": "BS",
+  "iso3": "BHS",
+  "ison": 44,
+  "currencies": [
+    "BSD"
+  ],
+  "calling_codes": [
+    "1242"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Nassau",
+  "id": "BHS",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 24.25,
+    "longitude": -76
+  },
+  "name_translations": {
+    "ja": "バハマ",
+    "nl": "Bahama’s",
+    "hr": "Bahami",
+    "en": "Bahamas"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "United Arab Emirates",
+  "top_level_domains": [
+    ".ae"
+  ],
+  "iso2": "AE",
+  "iso3": "ARE",
+  "ison": 784,
+  "currencies": [
+    "AED"
+  ],
+  "calling_codes": [
+    "971"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Abu Dhabi",
+  "id": "ARE",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "OMN",
+      "SAU"
+    ],
+    "latitude": 24,
+    "longitude": 54
+  },
+  "name_translations": {
+    "de": "Vereinigte Arabische Emirate",
+    "es": "Emiratos Árabes Unidos",
+    "fr": "Émirats arabes unis",
+    "it": "Emirati Arabi Uniti",
+    "ja": "アラブ首長国連邦",
+    "nl": "Verenigde Arabische Emiraten",
+    "hr": "Ujedinjeni Arapski Emirati",
+    "ar": "دولة الإمارات العربية المتحدة"
+  }
+}

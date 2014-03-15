@@ -1,0 +1,34 @@
+{
+  "name": "Taiwan",
+  "top_level_domains": [
+    ".tw"
+  ],
+  "iso2": "TW",
+  "iso3": "TWN",
+  "ison": 158,
+  "currencies": [
+    "TWD"
+  ],
+  "calling_codes": [
+    "886"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "capital": "Taipei",
+  "id": "TWN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "bordering_countries": [],
+    "latitude": 23.5,
+    "longitude": 121
+  },
+  "name_translations": {
+    "es": "Taiwán",
+    "fr": "Taïwan",
+    "ja": "台湾（台湾省/中華民国）",
+    "hr": "Tajvan",
+    "zh": "臺灣"
+  }
+}

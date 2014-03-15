@@ -1,0 +1,42 @@
+{
+  "name": "Lithuania",
+  "top_level_domains": [
+    ".lt"
+  ],
+  "iso2": "LT",
+  "iso3": "LTU",
+  "ison": 440,
+  "currencies": [
+    "LTL"
+  ],
+  "calling_codes": [
+    "370"
+  ],
+  "languages": [
+    "lt"
+  ],
+  "capital": "Vilnius",
+  "id": "LTU",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "latitude": 56,
+    "longitude": 24
+  },
+  "name_translations": {
+    "de": "Litauen",
+    "es": "Lituania",
+    "fr": "Lituanie",
+    "it": "Lituania",
+    "ja": "リトアニア",
+    "nl": "Litouwen",
+    "hr": "Litva",
+    "lt": "Lietuva"
+  }
+}

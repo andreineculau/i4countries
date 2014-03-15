@@ -1,0 +1,38 @@
+{
+  "name": "Estonia",
+  "top_level_domains": [
+    ".ee"
+  ],
+  "iso2": "EE",
+  "iso3": "EST",
+  "ison": 233,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "372"
+  ],
+  "languages": [
+    "et"
+  ],
+  "capital": "Tallinn",
+  "id": "EST",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "LVA",
+      "RUS"
+    ],
+    "latitude": 59,
+    "longitude": 26
+  },
+  "name_translations": {
+    "de": "Estland",
+    "fr": "Estonie",
+    "ja": "エストニア",
+    "nl": "Estland",
+    "hr": "Estonija",
+    "et": "Eesti"
+  }
+}

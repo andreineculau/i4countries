@@ -1,0 +1,37 @@
+{
+  "name": "Vietnam",
+  "top_level_domains": [
+    ".vn"
+  ],
+  "iso2": "VN",
+  "iso3": "VNM",
+  "ison": 704,
+  "currencies": [
+    "VND"
+  ],
+  "calling_codes": [
+    "84"
+  ],
+  "languages": [
+    "vi"
+  ],
+  "capital": "Hanoi",
+  "id": "VNM",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "latitude": 16.16666666,
+    "longitude": 107.83333333
+  },
+  "name_translations": {
+    "fr": "Viêt Nam",
+    "ja": "ベトナム",
+    "hr": "Vijetnam",
+    "vi": "Việt Nam"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Saint Kitts and Nevis",
+  "top_level_domains": [
+    ".kn"
+  ],
+  "iso2": "KN",
+  "iso3": "KNA",
+  "ison": 659,
+  "currencies": [
+    "XCD"
+  ],
+  "calling_codes": [
+    "1869"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Basseterre",
+  "id": "KNA",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 17.33333333,
+    "longitude": -62.75
+  },
+  "name_translations": {
+    "de": "St. Kitts und Nevis",
+    "es": "San Cristóbal y Nieves",
+    "fr": "Saint-Christophe-et-Niévès",
+    "it": "Saint Kitts e Nevis",
+    "ja": "セントクリストファー・ネイビス",
+    "nl": "Saint Kitts en Nevis",
+    "hr": "Sveti Kristof i Nevis",
+    "en": "Saint Kitts and Nevis"
+  }
+}

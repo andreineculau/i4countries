@@ -1,0 +1,37 @@
+{
+  "name": "Singapore",
+  "top_level_domains": [
+    ".sg"
+  ],
+  "iso2": "SG",
+  "iso3": "SGP",
+  "ison": 702,
+  "currencies": [
+    "SGD"
+  ],
+  "calling_codes": [
+    "65"
+  ],
+  "languages": [
+    "en",
+    "ms",
+    "ta",
+    "zh"
+  ],
+  "capital": "Singapore",
+  "id": "SGP",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [],
+    "latitude": 1.36666666,
+    "longitude": 103.8
+  },
+  "name_translations": {
+    "fr": "Singapour",
+    "de": "Singapur",
+    "ja": "シンガポール",
+    "es": "Singapur",
+    "hr": "Singapur"
+  }
+}

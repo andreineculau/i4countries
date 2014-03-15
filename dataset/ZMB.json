@@ -1,0 +1,43 @@
+{
+  "name": "Zambia",
+  "top_level_domains": [
+    ".zm"
+  ],
+  "iso2": "ZM",
+  "iso3": "ZMB",
+  "ison": 894,
+  "currencies": [
+    "ZMK"
+  ],
+  "calling_codes": [
+    "260"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Lusaka",
+  "id": "ZMB",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "latitude": -15,
+    "longitude": 30
+  },
+  "name_translations": {
+    "de": "Sambia",
+    "fr": "Zambie",
+    "ja": "ザンビア",
+    "hr": "Zambija",
+    "en": "Zambia"
+  }
+}

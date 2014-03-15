@@ -1,0 +1,44 @@
+{
+  "name": "Cameroon",
+  "top_level_domains": [
+    ".cm"
+  ],
+  "iso2": "CM",
+  "iso3": "CMR",
+  "ison": 120,
+  "currencies": [
+    "XAF"
+  ],
+  "calling_codes": [
+    "237"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "capital": "Yaoundé",
+  "id": "CMR",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "latitude": 6,
+    "longitude": 12
+  },
+  "name_translations": {
+    "de": "Kamerun",
+    "es": "Camerún",
+    "fr": "Cameroun",
+    "it": "Camerun",
+    "ja": "カメルーン",
+    "nl": "Kameroen",
+    "hr": "Kamerun"
+  }
+}

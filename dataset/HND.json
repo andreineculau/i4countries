@@ -1,0 +1,35 @@
+{
+  "name": "Honduras",
+  "top_level_domains": [
+    ".hn"
+  ],
+  "iso2": "HN",
+  "iso3": "HND",
+  "ison": 340,
+  "currencies": [
+    "HNL"
+  ],
+  "calling_codes": [
+    "504"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Tegucigalpa",
+  "id": "HND",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Central America",
+    "bordering_countries": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "latitude": 15,
+    "longitude": -86.5
+  },
+  "name_translations": {
+    "ja": "ホンジュラス",
+    "es": "Honduras"
+  }
+}

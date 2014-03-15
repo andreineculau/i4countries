@@ -1,0 +1,38 @@
+{
+  "name": "Timor-Leste",
+  "top_level_domains": [
+    ".tl"
+  ],
+  "iso2": "TL",
+  "iso3": "TLS",
+  "ison": 626,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "670"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "capital": "Dili",
+  "id": "TLS",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "IDN"
+    ],
+    "latitude": -8.83333333,
+    "longitude": 125.91666666
+  },
+  "name_translations": {
+    "fr": "Timor oriental",
+    "nl": "Oost-Timor",
+    "it": "Timor Est",
+    "ja": "東ティモール",
+    "es": "Timor Oriental",
+    "hr": "Istočni Timor",
+    "pt": "Timor-Leste"
+  }
+}

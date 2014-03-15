@@ -1,0 +1,44 @@
+{
+  "name": "Serbia",
+  "top_level_domains": [
+    ".rs"
+  ],
+  "iso2": "RS",
+  "iso3": "SRB",
+  "ison": 688,
+  "currencies": [
+    "RSD"
+  ],
+  "calling_codes": [
+    "381"
+  ],
+  "languages": [
+    "sr"
+  ],
+  "capital": "Belgrade",
+  "id": "SRB",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "KOS",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "latitude": 44,
+    "longitude": 21
+  },
+  "name_translations": {
+    "de": "Serbien",
+    "fr": "Serbie",
+    "ja": "セルビア",
+    "nl": "Servië",
+    "hr": "Srbija",
+    "sr": "Србија"
+  }
+}

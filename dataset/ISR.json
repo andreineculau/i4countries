@@ -1,0 +1,40 @@
+{
+  "name": "Israel",
+  "top_level_domains": [
+    ".il"
+  ],
+  "iso2": "IL",
+  "iso3": "ISR",
+  "ison": 376,
+  "currencies": [
+    "ILS"
+  ],
+  "calling_codes": [
+    "972"
+  ],
+  "languages": [
+    "he",
+    "ar"
+  ],
+  "capital": "Jerusalem",
+  "id": "ISR",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "SYR"
+    ],
+    "latitude": 31.5,
+    "longitude": 34.75
+  },
+  "name_translations": {
+    "fr": "Israël",
+    "it": "Israele",
+    "ja": "イスラエル",
+    "nl": "Israël",
+    "hr": "Izrael"
+  }
+}

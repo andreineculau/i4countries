@@ -1,0 +1,35 @@
+{
+  "name": "United States Minor Outlying Islands",
+  "top_level_domains": [
+    ".us"
+  ],
+  "iso2": "UM",
+  "iso3": "UMI",
+  "ison": 581,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    ""
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "",
+  "id": "UMI",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Northern America",
+    "bordering_countries": []
+  },
+  "name_translations": {
+    "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+    "es": "Islas Ultramarinas Menores de Estados Unidos",
+    "fr": "Îles mineures éloignées des États-Unis",
+    "it": "Isole minori esterne degli Stati Uniti d'America",
+    "ja": "合衆国領有小離島",
+    "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+    "hr": "Mali udaljeni otoci SAD-a",
+    "en": "United States Minor Outlying Islands"
+  }
+}

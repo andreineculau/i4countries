@@ -1,0 +1,37 @@
+{
+  "name": "Cocos (Keeling) Islands",
+  "top_level_domains": [
+    ".cc"
+  ],
+  "iso2": "CC",
+  "iso3": "CCK",
+  "ison": 166,
+  "currencies": [
+    "AUD"
+  ],
+  "calling_codes": [
+    "61"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "West Island",
+  "id": "CCK",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "bordering_countries": [],
+    "latitude": -12.5,
+    "longitude": 96.83333333
+  },
+  "name_translations": {
+    "fr": "Îles Cocos",
+    "nl": "Cocoseilanden",
+    "de": "Kokosinseln",
+    "it": "Isole Cocos e Keeling",
+    "ja": "ココス（キーリング）諸島",
+    "es": "Islas Cocos o Islas Keeling",
+    "hr": "Kokosovi Otoci",
+    "en": "Cocos (Keeling) Islands"
+  }
+}

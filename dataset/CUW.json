@@ -1,0 +1,30 @@
+{
+  "name": "Curaçao",
+  "top_level_domains": [
+    ".cw"
+  ],
+  "iso2": "CW",
+  "iso3": "CUW",
+  "ison": 531,
+  "currencies": [
+    "ANG"
+  ],
+  "calling_codes": [
+    "5999"
+  ],
+  "languages": [
+    "nl",
+    "pa",
+    "en"
+  ],
+  "capital": "Willemstad",
+  "id": "CUW",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 12.116667,
+    "longitude": -68.933333
+  },
+  "name_translations": {}
+}

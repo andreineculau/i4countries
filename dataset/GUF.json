@@ -1,0 +1,39 @@
+{
+  "name": "French Guiana",
+  "top_level_domains": [
+    ".gf"
+  ],
+  "iso2": "GF",
+  "iso3": "GUF",
+  "ison": 254,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "594"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Cayenne",
+  "id": "GUF",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "BRA",
+      "SUR"
+    ],
+    "latitude": 4,
+    "longitude": -53
+  },
+  "name_translations": {
+    "de": "Französisch Guyana",
+    "es": "Guayana Francesa",
+    "fr": "Guyane française",
+    "it": "Guyana francese",
+    "ja": "フランス領ギアナ",
+    "nl": "Frans-Guyana",
+    "hr": "Francuska Gvajana"
+  }
+}

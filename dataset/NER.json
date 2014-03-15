@@ -1,0 +1,40 @@
+{
+  "name": "Niger",
+  "top_level_domains": [
+    ".ne"
+  ],
+  "iso2": "NE",
+  "iso3": "NER",
+  "ison": 562,
+  "currencies": [
+    "XOF"
+  ],
+  "calling_codes": [
+    "227"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Niamey",
+  "id": "NER",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "latitude": 16,
+    "longitude": 8
+  },
+  "name_translations": {
+    "es": "Níger",
+    "ja": "ニジェール",
+    "fr": "Niger"
+  }
+}

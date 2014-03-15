@@ -1,0 +1,39 @@
+{
+  "name": "Cyprus",
+  "top_level_domains": [
+    ".cy"
+  ],
+  "iso2": "CY",
+  "iso3": "CYP",
+  "ison": 196,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "357"
+  ],
+  "languages": [
+    "el",
+    "tr",
+    "hy"
+  ],
+  "capital": "Nicosia",
+  "id": "CYP",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "GBR"
+    ],
+    "latitude": 35,
+    "longitude": 33
+  },
+  "name_translations": {
+    "de": "Zypern",
+    "es": "Chipre",
+    "fr": "Chypre",
+    "it": "Cipro",
+    "ja": "キプロス",
+    "hr": "Cipar"
+  }
+}

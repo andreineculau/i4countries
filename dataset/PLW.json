@@ -1,0 +1,32 @@
+{
+  "name": "Palau",
+  "top_level_domains": [
+    ".pw"
+  ],
+  "iso2": "PW",
+  "iso3": "PLW",
+  "ison": 585,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "680"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Ngerulmud",
+  "id": "PLW",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "bordering_countries": [],
+    "latitude": 7.5,
+    "longitude": 134.5
+  },
+  "name_translations": {
+    "fr": "Palaos",
+    "ja": "パラオ",
+    "en": "Palau"
+  }
+}

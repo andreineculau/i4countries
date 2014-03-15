@@ -1,0 +1,36 @@
+{
+  "name": "Qatar",
+  "top_level_domains": [
+    ".qa"
+  ],
+  "iso2": "QA",
+  "iso3": "QAT",
+  "ison": 634,
+  "currencies": [
+    "QAR"
+  ],
+  "calling_codes": [
+    "974"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Doha",
+  "id": "QAT",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "SAU"
+    ],
+    "latitude": 25.5,
+    "longitude": 51.25
+  },
+  "name_translations": {
+    "de": "Katar",
+    "es": "Catar",
+    "ja": "カタール",
+    "hr": "Katar",
+    "ar": "قطر"
+  }
+}

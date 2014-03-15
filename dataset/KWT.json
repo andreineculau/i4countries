@@ -1,0 +1,37 @@
+{
+  "name": "Kuwait",
+  "top_level_domains": [
+    ".kw"
+  ],
+  "iso2": "KW",
+  "iso3": "KWT",
+  "ison": 414,
+  "currencies": [
+    "KWD"
+  ],
+  "calling_codes": [
+    "965"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Kuwait City",
+  "id": "KWT",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "IRN",
+      "SAU"
+    ],
+    "latitude": 29.5,
+    "longitude": 45.75
+  },
+  "name_translations": {
+    "fr": "Koweït",
+    "ja": "クウェート",
+    "nl": "Koeweit",
+    "hr": "Kuvajt",
+    "ar": "الكويت"
+  }
+}

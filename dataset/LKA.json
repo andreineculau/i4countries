@@ -1,0 +1,34 @@
+{
+  "name": "Sri Lanka",
+  "top_level_domains": [
+    ".lk"
+  ],
+  "iso2": "LK",
+  "iso3": "LKA",
+  "ison": 144,
+  "currencies": [
+    "LKR"
+  ],
+  "calling_codes": [
+    "94"
+  ],
+  "languages": [
+    "si",
+    "ta"
+  ],
+  "capital": "Colombo",
+  "id": "LKA",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [
+      "IND"
+    ],
+    "latitude": 7,
+    "longitude": 81
+  },
+  "name_translations": {
+    "ja": "スリランカ",
+    "hr": "Šri Lanka"
+  }
+}

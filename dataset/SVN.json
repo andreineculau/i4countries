@@ -1,0 +1,41 @@
+{
+  "name": "Slovenia",
+  "top_level_domains": [
+    ".si"
+  ],
+  "iso2": "SI",
+  "iso3": "SVN",
+  "ison": 705,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "386"
+  ],
+  "languages": [
+    "sl"
+  ],
+  "capital": "Ljubljana",
+  "id": "SVN",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "latitude": 46.11666666,
+    "longitude": 14.81666666
+  },
+  "name_translations": {
+    "de": "Slowenien",
+    "es": "Eslovenia",
+    "fr": "Slovénie",
+    "ja": "スロベニア",
+    "nl": "Slovenië",
+    "hr": "Slovenija",
+    "sl": "Slovenija"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Djibouti",
+  "top_level_domains": [
+    ".dj"
+  ],
+  "iso2": "DJ",
+  "iso3": "DJI",
+  "ison": 262,
+  "currencies": [
+    "DJF"
+  ],
+  "calling_codes": [
+    "253"
+  ],
+  "languages": [
+    "fr",
+    "ar"
+  ],
+  "capital": "Djibouti",
+  "id": "DJI",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "latitude": 11.5,
+    "longitude": 43
+  },
+  "name_translations": {
+    "de": "Dschibuti",
+    "es": "Yibuti",
+    "it": "Gibuti",
+    "ja": "ジブチ",
+    "hr": "Džibuti"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Gambia",
+  "top_level_domains": [
+    ".gm"
+  ],
+  "iso2": "GM",
+  "iso3": "GMB",
+  "ison": 270,
+  "currencies": [
+    "GMD"
+  ],
+  "calling_codes": [
+    "220"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Banjul",
+  "id": "GMB",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "SEN"
+    ],
+    "latitude": 13.46666666,
+    "longitude": -16.56666666
+  },
+  "name_translations": {
+    "fr": "Gambie",
+    "ja": "ガンビア",
+    "hr": "Gambija",
+    "en": "Gambia"
+  }
+}

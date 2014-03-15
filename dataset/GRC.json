@@ -1,0 +1,42 @@
+{
+  "name": "Greece",
+  "top_level_domains": [
+    ".gr"
+  ],
+  "iso2": "GR",
+  "iso3": "GRC",
+  "ison": 300,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "30"
+  ],
+  "languages": [
+    "el"
+  ],
+  "capital": "Athens",
+  "id": "GRC",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "latitude": 39,
+    "longitude": 22
+  },
+  "name_translations": {
+    "de": "Griechenland",
+    "es": "Grecia",
+    "fr": "Grèce",
+    "it": "Grecia",
+    "ja": "ギリシャ",
+    "nl": "Griekenland",
+    "hr": "Grčka",
+    "el": "Ελλάδα"
+  }
+}

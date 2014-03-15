@@ -1,0 +1,37 @@
+{
+  "name": "Northern Mariana Islands",
+  "top_level_domains": [
+    ".mp"
+  ],
+  "iso2": "MP",
+  "iso3": "MNP",
+  "ison": 580,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "1670"
+  ],
+  "languages": [
+    "en",
+    "ch"
+  ],
+  "capital": "Saipan",
+  "id": "MNP",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "bordering_countries": [],
+    "latitude": 15.2,
+    "longitude": 145.75
+  },
+  "name_translations": {
+    "de": "Nördliche Marianen",
+    "es": "Islas Marianas del Norte",
+    "fr": "Îles Mariannes du Nord",
+    "it": "Isole Marianne Settentrionali",
+    "ja": "北マリアナ諸島",
+    "nl": "Noordelijke Marianeneilanden",
+    "hr": "Sjevernomarijanski otoci"
+  }
+}

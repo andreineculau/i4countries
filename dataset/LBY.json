@@ -1,0 +1,44 @@
+{
+  "name": "Libya",
+  "top_level_domains": [
+    ".ly"
+  ],
+  "iso2": "LY",
+  "iso3": "LBY",
+  "ison": 434,
+  "currencies": [
+    "LYD"
+  ],
+  "calling_codes": [
+    "218"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Tripoli",
+  "id": "LBY",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "bordering_countries": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "latitude": 25,
+    "longitude": 17
+  },
+  "name_translations": {
+    "de": "Libyen",
+    "es": "Libia",
+    "fr": "Libye",
+    "it": "Libia",
+    "ja": "リビア",
+    "nl": "Libië",
+    "hr": "Libija",
+    "ar": "‏ليبيا"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Bermuda",
+  "top_level_domains": [
+    ".bm"
+  ],
+  "iso2": "BM",
+  "iso3": "BMU",
+  "ison": 60,
+  "currencies": [
+    "BMD"
+  ],
+  "calling_codes": [
+    "1441"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Hamilton",
+  "id": "BMU",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Northern America",
+    "bordering_countries": [],
+    "latitude": 32.33333333,
+    "longitude": -64.75
+  },
+  "name_translations": {
+    "es": "Bermudas",
+    "fr": "Bermudes",
+    "ja": "バミューダ",
+    "hr": "Bermudi",
+    "en": "Bermuda"
+  }
+}

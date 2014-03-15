@@ -1,0 +1,42 @@
+{
+  "name": "Czech Republic",
+  "top_level_domains": [
+    ".cz"
+  ],
+  "iso2": "CZ",
+  "iso3": "CZE",
+  "ison": 203,
+  "currencies": [
+    "CZK"
+  ],
+  "calling_codes": [
+    "420"
+  ],
+  "languages": [
+    "cs",
+    "sk"
+  ],
+  "capital": "Prague",
+  "id": "CZE",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "latitude": 49.75,
+    "longitude": 15.5
+  },
+  "name_translations": {
+    "de": "Tschechische Republik",
+    "es": "República Checa",
+    "fr": "République tchèque",
+    "it": "Repubblica Ceca",
+    "ja": "チェコ",
+    "nl": "Tsjechië",
+    "hr": "Češka"
+  }
+}

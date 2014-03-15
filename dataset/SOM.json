@@ -1,0 +1,38 @@
+{
+  "name": "Somalia",
+  "top_level_domains": [
+    ".so"
+  ],
+  "iso2": "SO",
+  "iso3": "SOM",
+  "ison": 706,
+  "currencies": [
+    "SOS"
+  ],
+  "calling_codes": [
+    "252"
+  ],
+  "languages": [
+    "so",
+    "ar"
+  ],
+  "capital": "Mogadishu",
+  "id": "SOM",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "latitude": 10,
+    "longitude": 49
+  },
+  "name_translations": {
+    "fr": "Somalie",
+    "ja": "ソマリア",
+    "nl": "Somalië",
+    "hr": "Somalija"
+  }
+}

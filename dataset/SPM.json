@@ -1,0 +1,36 @@
+{
+  "name": "Saint Pierre and Miquelon",
+  "top_level_domains": [
+    ".pm"
+  ],
+  "iso2": "PM",
+  "iso3": "SPM",
+  "ison": 666,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "508"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Saint-Pierre",
+  "id": "SPM",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Northern America",
+    "bordering_countries": [],
+    "latitude": 46.83333333,
+    "longitude": -56.33333333
+  },
+  "name_translations": {
+    "de": "Saint-Pierre und Miquelon",
+    "es": "San Pedro y Miquelón",
+    "fr": "Saint-Pierre-et-Miquelon",
+    "it": "Saint-Pierre e Miquelon",
+    "ja": "サンピエール島・ミクロン島",
+    "nl": "Saint Pierre en Miquelon",
+    "hr": "Sveti Petar i Mikelon"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Luxembourg",
+  "top_level_domains": [
+    ".lu"
+  ],
+  "iso2": "LU",
+  "iso3": "LUX",
+  "ison": 442,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "352"
+  ],
+  "languages": [
+    "fr",
+    "de",
+    "lb"
+  ],
+  "capital": "Luxembourg",
+  "id": "LUX",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "latitude": 49.75,
+    "longitude": 6.16666666
+  },
+  "name_translations": {
+    "de": "Luxemburg",
+    "es": "Luxemburgo",
+    "it": "Lussemburgo",
+    "ja": "ルクセンブルク",
+    "nl": "Luxemburg",
+    "hr": "Luksemburg"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Netherlands",
+  "top_level_domains": [
+    ".nl"
+  ],
+  "iso2": "NL",
+  "iso3": "NLD",
+  "ison": 528,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "31"
+  ],
+  "languages": [
+    "nl"
+  ],
+  "capital": "Amsterdam",
+  "id": "NLD",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "BEL",
+      "DEU"
+    ],
+    "latitude": 52.5,
+    "longitude": 5.75
+  },
+  "name_translations": {
+    "de": "Niederlande",
+    "es": "Países Bajos",
+    "fr": "Pays-Bas",
+    "it": "Paesi Bassi",
+    "ja": "オランダ",
+    "nl": "Nederland",
+    "hr": "Nizozemska"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Afghanistan",
+  "top_level_domains": [
+    ".af"
+  ],
+  "iso2": "AF",
+  "iso3": "AFG",
+  "ison": 4,
+  "currencies": [
+    "AFN"
+  ],
+  "calling_codes": [
+    "93"
+  ],
+  "languages": [
+    "ps",
+    "uz",
+    "tk"
+  ],
+  "capital": "Kabul",
+  "id": "AFG",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "latitude": 33,
+    "longitude": 65
+  },
+  "name_translations": {
+    "es": "Afganistán",
+    "ja": "アフガニスタン",
+    "hr": "Afganistan"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Malta",
+  "top_level_domains": [
+    ".mt"
+  ],
+  "iso2": "MT",
+  "iso3": "MLT",
+  "ison": 470,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "356"
+  ],
+  "languages": [
+    "mt",
+    "en"
+  ],
+  "capital": "Valletta",
+  "id": "MLT",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [],
+    "latitude": 35.83333333,
+    "longitude": 14.58333333
+  },
+  "name_translations": {
+    "fr": "Malte",
+    "ja": "マルタ"
+  }
+}

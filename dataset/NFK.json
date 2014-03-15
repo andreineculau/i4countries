@@ -1,0 +1,37 @@
+{
+  "name": "Norfolk Island",
+  "top_level_domains": [
+    ".nf"
+  ],
+  "iso2": "NF",
+  "iso3": "NFK",
+  "ison": 574,
+  "currencies": [
+    "AUD"
+  ],
+  "calling_codes": [
+    "672"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Kingston",
+  "id": "NFK",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "bordering_countries": [],
+    "latitude": -29.03333333,
+    "longitude": 167.95
+  },
+  "name_translations": {
+    "fr": "Île de Norfolk",
+    "nl": "Norfolkeiland",
+    "de": "Norfolkinsel",
+    "it": "Isola Norfolk",
+    "ja": "ノーフォーク島",
+    "es": "Isla de Norfolk",
+    "hr": "Otok Norfolk",
+    "en": "Norfolk Island"
+  }
+}

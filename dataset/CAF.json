@@ -1,0 +1,44 @@
+{
+  "name": "Central African Republic",
+  "top_level_domains": [
+    ".cf"
+  ],
+  "iso2": "CF",
+  "iso3": "CAF",
+  "ison": 140,
+  "currencies": [
+    "XAF"
+  ],
+  "calling_codes": [
+    "236"
+  ],
+  "languages": [
+    "fr",
+    "sg"
+  ],
+  "capital": "Bangui",
+  "id": "CAF",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "latitude": 7,
+    "longitude": 21
+  },
+  "name_translations": {
+    "de": "Zentralafrikanische Republik",
+    "es": "República Centroafricana",
+    "fr": "République centrafricaine",
+    "it": "Repubblica Centrafricana",
+    "ja": "中央アフリカ共和国",
+    "nl": "Centraal-Afrikaanse Republiek",
+    "hr": "Srednjoafrička Republika"
+  }
+}

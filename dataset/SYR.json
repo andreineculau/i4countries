@@ -1,0 +1,43 @@
+{
+  "name": "Syria",
+  "top_level_domains": [
+    ".sy"
+  ],
+  "iso2": "SY",
+  "iso3": "SYR",
+  "ison": 760,
+  "currencies": [
+    "SYP"
+  ],
+  "calling_codes": [
+    "963"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Damascus",
+  "id": "SYR",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "latitude": 35,
+    "longitude": 38
+  },
+  "name_translations": {
+    "de": "Syrien",
+    "es": "Siria",
+    "fr": "Syrie",
+    "it": "Siria",
+    "ja": "シリア・アラブ共和国",
+    "nl": "Syrië",
+    "hr": "Sirija",
+    "ar": "سوريا"
+  }
+}

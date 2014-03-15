@@ -1,0 +1,44 @@
+{
+  "name": "South Sudan",
+  "top_level_domains": [
+    ".ss"
+  ],
+  "iso2": "SS",
+  "iso3": "SSD",
+  "ison": 728,
+  "currencies": [
+    "SSP"
+  ],
+  "calling_codes": [
+    "211"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Juba",
+  "id": "SSD",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "latitude": 7,
+    "longitude": 30
+  },
+  "name_translations": {
+    "fr": "Soudan du Sud",
+    "nl": "Zuid-Soedan",
+    "de": "Südsudan",
+    "it": "Sudan del sud",
+    "ja": "南スーダン",
+    "es": "Sudán del Sur",
+    "hr": "Južni Sudan",
+    "en": "South Sudan"
+  }
+}

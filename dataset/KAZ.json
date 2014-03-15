@@ -1,0 +1,44 @@
+{
+  "name": "Kazakhstan",
+  "top_level_domains": [
+    ".kz",
+    ".қаз"
+  ],
+  "iso2": "KZ",
+  "iso3": "KAZ",
+  "ison": 398,
+  "currencies": [
+    "KZT"
+  ],
+  "calling_codes": [
+    "76",
+    "77"
+  ],
+  "languages": [
+    "kk",
+    "ru"
+  ],
+  "capital": "Astana",
+  "id": "KAZ",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "bordering_countries": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "latitude": 48,
+    "longitude": 68
+  },
+  "name_translations": {
+    "de": "Kasachstan",
+    "es": "Kazajistán",
+    "it": "Kazakistan",
+    "ja": "カザフスタン",
+    "nl": "Kazachstan",
+    "hr": "Kazahstan"
+  }
+}

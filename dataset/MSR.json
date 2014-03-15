@@ -1,0 +1,31 @@
+{
+  "name": "Montserrat",
+  "top_level_domains": [
+    ".ms"
+  ],
+  "iso2": "MS",
+  "iso3": "MSR",
+  "ison": 500,
+  "currencies": [
+    "XCD"
+  ],
+  "calling_codes": [
+    "1664"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Plymouth",
+  "id": "MSR",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 16.75,
+    "longitude": -62.2
+  },
+  "name_translations": {
+    "ja": "モントセラト",
+    "en": "Montserrat"
+  }
+}

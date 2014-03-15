@@ -1,0 +1,39 @@
+{
+  "name": "Republic of Kosovo",
+  "top_level_domains": [
+    ""
+  ],
+  "iso2": "XK",
+  "iso3": "KOS",
+  "ison": 780,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "377",
+    "381",
+    "386"
+  ],
+  "languages": [
+    "sq",
+    "sr"
+  ],
+  "capital": "Pristina",
+  "id": "KOS",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ],
+    "latitude": 42.666667,
+    "longitude": 21.166667
+  },
+  "name_translations": {
+    "es": "Kosovo",
+    "hr": "Kosovo"
+  }
+}

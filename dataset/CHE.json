@@ -1,0 +1,46 @@
+{
+  "name": "Switzerland",
+  "top_level_domains": [
+    ".ch"
+  ],
+  "iso2": "CH",
+  "iso3": "CHE",
+  "ison": 756,
+  "currencies": [
+    "CHE",
+    "CHF",
+    "CHW"
+  ],
+  "calling_codes": [
+    "41"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "it"
+  ],
+  "capital": "Bern",
+  "id": "CHE",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "latitude": 47,
+    "longitude": 8
+  },
+  "name_translations": {
+    "de": "Schweiz",
+    "es": "Suiza",
+    "fr": "Suisse",
+    "it": "Svizzera",
+    "ja": "スイス",
+    "nl": "Zwitserland",
+    "hr": "Švicarska"
+  }
+}

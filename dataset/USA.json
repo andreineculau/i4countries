@@ -1,0 +1,42 @@
+{
+  "name": "United States",
+  "top_level_domains": [
+    ".us"
+  ],
+  "iso2": "US",
+  "iso3": "USA",
+  "ison": 840,
+  "currencies": [
+    "USD",
+    "USN",
+    "USS"
+  ],
+  "calling_codes": [
+    "1"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Washington D.C.",
+  "id": "USA",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Northern America",
+    "bordering_countries": [
+      "CAN",
+      "MEX"
+    ],
+    "latitude": 38,
+    "longitude": -97
+  },
+  "name_translations": {
+    "de": "Vereinigte Staaten von Amerika",
+    "es": "Estados Unidos",
+    "fr": "États-Unis",
+    "it": "Stati Uniti D'America",
+    "ja": "アメリカ合衆国",
+    "nl": "Verenigde Staten",
+    "hr": "Sjedinjene Američke Države",
+    "en": "United States"
+  }
+}

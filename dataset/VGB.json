@@ -1,0 +1,37 @@
+{
+  "name": "British Virgin Islands",
+  "top_level_domains": [
+    ".vg"
+  ],
+  "iso2": "VG",
+  "iso3": "VGB",
+  "ison": 92,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "1284"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Road Town",
+  "id": "VGB",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 18.431383,
+    "longitude": -64.62305
+  },
+  "name_translations": {
+    "de": "Britische Jungferninseln",
+    "es": "Islas Vírgenes del Reino Unido",
+    "fr": "Îles Vierges britanniques",
+    "it": "Isole Vergini Britanniche",
+    "ja": "イギリス領ヴァージン諸島",
+    "nl": "Britse Maagdeneilanden",
+    "hr": "Britanski Djevičanski Otoci",
+    "en": "British Virgin Islands"
+  }
+}

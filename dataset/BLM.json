@@ -1,0 +1,34 @@
+{
+  "name": "Saint Barthélemy",
+  "top_level_domains": [
+    ".bl"
+  ],
+  "iso2": "BL",
+  "iso3": "BLM",
+  "ison": 652,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "590"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Gustavia",
+  "id": "BLM",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 18.5,
+    "longitude": -63.41666666
+  },
+  "name_translations": {
+    "de": "Saint-Barthélemy",
+    "es": "San Bartolomé",
+    "fr": "Saint-Barthélemy",
+    "it": "Antille Francesi",
+    "ja": "サン・バルテルミー"
+  }
+}

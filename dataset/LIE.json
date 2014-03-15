@@ -1,0 +1,35 @@
+{
+  "name": "Liechtenstein",
+  "top_level_domains": [
+    ".li"
+  ],
+  "iso2": "LI",
+  "iso3": "LIE",
+  "ison": 438,
+  "currencies": [
+    "CHF"
+  ],
+  "calling_codes": [
+    "423"
+  ],
+  "languages": [
+    "de"
+  ],
+  "capital": "Vaduz",
+  "id": "LIE",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "AUT",
+      "CHE"
+    ],
+    "latitude": 47.26666666,
+    "longitude": 9.53333333
+  },
+  "name_translations": {
+    "ja": "リヒテンシュタイン",
+    "hr": "Lihtenštajn",
+    "de": "Liechtenstein"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Solomon Islands",
+  "top_level_domains": [
+    ".sb"
+  ],
+  "iso2": "SB",
+  "iso3": "SLB",
+  "ison": 90,
+  "currencies": [
+    "SDB"
+  ],
+  "calling_codes": [
+    "677"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Honiara",
+  "id": "SLB",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "bordering_countries": [],
+    "latitude": -8,
+    "longitude": 159
+  },
+  "name_translations": {
+    "de": "Salomonen",
+    "es": "Islas Salomón",
+    "fr": "Îles Salomon",
+    "it": "Isole Salomone",
+    "ja": "ソロモン諸島",
+    "nl": "Salomonseilanden",
+    "hr": "Solomonski Otoci",
+    "en": "Solomon Islands"
+  }
+}

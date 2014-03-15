@@ -1,0 +1,39 @@
+{
+  "name": "Tunisia",
+  "top_level_domains": [
+    ".tn"
+  ],
+  "iso2": "TN",
+  "iso3": "TUN",
+  "ison": 788,
+  "currencies": [
+    "TND"
+  ],
+  "calling_codes": [
+    "216"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Tunis",
+  "id": "TUN",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "bordering_countries": [
+      "DZA",
+      "LBY"
+    ],
+    "latitude": 34,
+    "longitude": 9
+  },
+  "name_translations": {
+    "de": "Tunesien",
+    "es": "Túnez",
+    "fr": "Tunisie",
+    "ja": "チュニジア",
+    "nl": "Tunesië",
+    "hr": "Tunis",
+    "ar": "تونس"
+  }
+}

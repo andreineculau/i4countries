@@ -1,0 +1,40 @@
+{
+  "name": "Colombia",
+  "top_level_domains": [
+    ".co"
+  ],
+  "iso2": "CO",
+  "iso3": "COL",
+  "ison": 170,
+  "currencies": [
+    "COP"
+  ],
+  "calling_codes": [
+    "57"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Bogotá",
+  "id": "COL",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "latitude": 4,
+    "longitude": -72
+  },
+  "name_translations": {
+    "de": "Kolumbien",
+    "fr": "Colombie",
+    "ja": "コロンビア",
+    "hr": "Kolumbija",
+    "es": "Colombia"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Seychelles",
+  "top_level_domains": [
+    ".sc"
+  ],
+  "iso2": "SC",
+  "iso3": "SYC",
+  "ison": 690,
+  "currencies": [
+    "SCR"
+  ],
+  "calling_codes": [
+    "248"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "capital": "Victoria",
+  "id": "SYC",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [],
+    "latitude": -4.58333333,
+    "longitude": 55.66666666
+  },
+  "name_translations": {
+    "de": "Seychellen",
+    "ja": "セーシェル",
+    "nl": "Seychellen",
+    "hr": "Sejšeli"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Guam",
+  "top_level_domains": [
+    ".gu"
+  ],
+  "iso2": "GU",
+  "iso3": "GUM",
+  "ison": 316,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "1671"
+  ],
+  "languages": [
+    "en",
+    "ch",
+    "es"
+  ],
+  "capital": "Hagåtña",
+  "id": "GUM",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "bordering_countries": [],
+    "latitude": 13.46666666,
+    "longitude": 144.78333333
+  },
+  "name_translations": {
+    "ja": "グアム"
+  }
+}

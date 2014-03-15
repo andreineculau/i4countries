@@ -1,0 +1,37 @@
+{
+  "name": "Åland Islands",
+  "top_level_domains": [
+    ".ax"
+  ],
+  "iso2": "AX",
+  "iso3": "ALA",
+  "ison": 248,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "358"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "capital": "Mariehamn",
+  "id": "ALA",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [],
+    "latitude": 60.116667,
+    "longitude": 19.9
+  },
+  "name_translations": {
+    "de": "Åland",
+    "es": "Alandia",
+    "fr": "Åland",
+    "it": "Isole Aland",
+    "ja": "オーランド諸島",
+    "nl": "Ålandeilanden",
+    "hr": "Ålandski otoci",
+    "sv": "Åland"
+  }
+}

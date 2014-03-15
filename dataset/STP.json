@@ -1,0 +1,37 @@
+{
+  "name": "São Tomé and Príncipe",
+  "top_level_domains": [
+    ".st"
+  ],
+  "iso2": "ST",
+  "iso3": "STP",
+  "ison": 678,
+  "currencies": [
+    "STD"
+  ],
+  "calling_codes": [
+    "239"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "capital": "São Tomé",
+  "id": "STP",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [],
+    "latitude": 1,
+    "longitude": 7
+  },
+  "name_translations": {
+    "de": "São Tomé und Príncipe",
+    "es": "Santo Tomé y Príncipe",
+    "fr": "Sao Tomé-et-Principe",
+    "it": "São Tomé e Príncipe",
+    "ja": "サントメ・プリンシペ",
+    "nl": "Sao Tomé en Principe",
+    "hr": "Sveti Toma i Princip",
+    "pt": "São Tomé e Príncipe"
+  }
+}

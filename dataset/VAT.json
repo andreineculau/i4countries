@@ -1,0 +1,40 @@
+{
+  "name": "Vatican City",
+  "top_level_domains": [
+    ".va"
+  ],
+  "iso2": "VA",
+  "iso3": "VAT",
+  "ison": 336,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "39066",
+    "379"
+  ],
+  "languages": [
+    "it",
+    "la"
+  ],
+  "capital": "Vatican City",
+  "id": "VAT",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "ITA"
+    ],
+    "latitude": 41.9,
+    "longitude": 12.45
+  },
+  "name_translations": {
+    "de": "Vatikanstadt",
+    "es": "Ciudad del Vaticano",
+    "fr": "Cité du Vatican",
+    "it": "Città del Vaticano",
+    "ja": "バチカン市国",
+    "nl": "Vaticaanstad",
+    "hr": "Vatikan"
+  }
+}

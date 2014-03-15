@@ -1,0 +1,39 @@
+{
+  "name": "Ireland",
+  "top_level_domains": [
+    ".ie"
+  ],
+  "iso2": "IE",
+  "iso3": "IRL",
+  "ison": 372,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "353"
+  ],
+  "languages": [
+    "ga",
+    "en"
+  ],
+  "capital": "Dublin",
+  "id": "IRL",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "GBR"
+    ],
+    "latitude": 53,
+    "longitude": -8
+  },
+  "name_translations": {
+    "de": "Irland",
+    "es": "Irlanda",
+    "fr": "Irlande",
+    "it": "Irlanda",
+    "ja": "アイルランド",
+    "nl": "Ierland",
+    "hr": "Irska"
+  }
+}

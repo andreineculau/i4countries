@@ -1,0 +1,36 @@
+{
+  "name": "Andorra",
+  "top_level_domains": [
+    ".ad"
+  ],
+  "iso2": "AD",
+  "iso3": "AND",
+  "ison": 20,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "376"
+  ],
+  "languages": [
+    "ca"
+  ],
+  "capital": "Andorra la Vella",
+  "id": "AND",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "FRA",
+      "ESP"
+    ],
+    "latitude": 42.5,
+    "longitude": 1.5
+  },
+  "name_translations": {
+    "fr": "Andorre",
+    "ja": "アンドラ",
+    "hr": "Andora",
+    "ca": "Andorra"
+  }
+}

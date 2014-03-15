@@ -1,0 +1,39 @@
+{
+  "name": "United Kingdom",
+  "top_level_domains": [
+    ".uk"
+  ],
+  "iso2": "GB",
+  "iso3": "GBR",
+  "ison": 826,
+  "currencies": [
+    "GBP"
+  ],
+  "calling_codes": [
+    "44"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "London",
+  "id": "GBR",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "IRL"
+    ],
+    "latitude": 54,
+    "longitude": -2
+  },
+  "name_translations": {
+    "de": "Vereinigtes Königreich",
+    "es": "Reino Unido",
+    "fr": "Royaume-Uni",
+    "it": "Regno Unito",
+    "ja": "イギリス",
+    "nl": "Verenigd Koninkrijk",
+    "hr": "Ujedinjeno Kraljevstvo",
+    "en": "United Kingdom"
+  }
+}

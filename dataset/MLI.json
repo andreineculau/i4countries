@@ -1,0 +1,39 @@
+{
+  "name": "Mali",
+  "top_level_domains": [
+    ".ml"
+  ],
+  "iso2": "ML",
+  "iso3": "MLI",
+  "ison": 466,
+  "currencies": [
+    "XOF"
+  ],
+  "calling_codes": [
+    "223"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Bamako",
+  "id": "MLI",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "latitude": 17,
+    "longitude": -4
+  },
+  "name_translations": {
+    "ja": "マリ",
+    "fr": "Mali"
+  }
+}

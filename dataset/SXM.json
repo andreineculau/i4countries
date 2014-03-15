@@ -1,0 +1,31 @@
+{
+  "name": "Sint Maarten",
+  "top_level_domains": [
+    ".sx"
+  ],
+  "iso2": "SX",
+  "iso3": "SXM",
+  "ison": 534,
+  "currencies": [
+    "ANG"
+  ],
+  "calling_codes": [
+    "1721"
+  ],
+  "languages": [
+    "nl",
+    "en"
+  ],
+  "capital": "Philipsburg",
+  "id": "SXM",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [
+      "MAF"
+    ],
+    "latitude": 18.033333,
+    "longitude": -63.05
+  },
+  "name_translations": {}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Anguilla",
+  "top_level_domains": [
+    ".ai"
+  ],
+  "iso2": "AI",
+  "iso3": "AIA",
+  "ison": 660,
+  "currencies": [
+    "XCD"
+  ],
+  "calling_codes": [
+    "1264"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "The Valley",
+  "id": "AIA",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 18.25,
+    "longitude": -63.16666666
+  },
+  "name_translations": {
+    "ja": "アンギラ",
+    "hr": "Angvila",
+    "en": "Anguilla"
+  }
+}

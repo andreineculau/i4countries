@@ -1,0 +1,41 @@
+{
+  "name": "North Korea",
+  "top_level_domains": [
+    ".kp"
+  ],
+  "iso2": "KP",
+  "iso3": "PRK",
+  "ison": 408,
+  "currencies": [
+    "KPW"
+  ],
+  "calling_codes": [
+    "850"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "capital": "Pyongyang",
+  "id": "PRK",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "bordering_countries": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "latitude": 40,
+    "longitude": 127
+  },
+  "name_translations": {
+    "de": "Nordkorea",
+    "es": "Corea del Norte",
+    "fr": "Corée du Nord",
+    "it": "Corea del Nord",
+    "ja": "朝鮮民主主義人民共和国",
+    "nl": "Noord-Korea",
+    "hr": "Sjeverna Koreja",
+    "ko": "북한"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Peru",
+  "top_level_domains": [
+    ".pe"
+  ],
+  "iso2": "PE",
+  "iso3": "PER",
+  "ison": 604,
+  "currencies": [
+    "PEN"
+  ],
+  "calling_codes": [
+    "51"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Lima",
+  "id": "PER",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "latitude": -10,
+    "longitude": -76
+  },
+  "name_translations": {
+    "es": "Perú",
+    "fr": "Pérou",
+    "it": "Perù",
+    "ja": "ペルー"
+  }
+}

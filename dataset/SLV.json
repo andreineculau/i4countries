@@ -1,0 +1,37 @@
+{
+  "name": "El Salvador",
+  "top_level_domains": [
+    ".sv"
+  ],
+  "iso2": "SV",
+  "iso3": "SLV",
+  "ison": 222,
+  "currencies": [
+    "SVC",
+    "USD"
+  ],
+  "calling_codes": [
+    "503"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "San Salvador",
+  "id": "SLV",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Central America",
+    "bordering_countries": [
+      "GTM",
+      "HND"
+    ],
+    "latitude": 13.83333333,
+    "longitude": -88.91666666
+  },
+  "name_translations": {
+    "fr": "Salvador",
+    "ja": "エルサルバドル",
+    "hr": "Salvador",
+    "es": "El Salvador"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Iceland",
+  "top_level_domains": [
+    ".is"
+  ],
+  "iso2": "IS",
+  "iso3": "ISL",
+  "ison": 352,
+  "currencies": [
+    "ISK"
+  ],
+  "calling_codes": [
+    "354"
+  ],
+  "languages": [
+    "is"
+  ],
+  "capital": "Reykjavik",
+  "id": "ISL",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [],
+    "latitude": 65,
+    "longitude": -18
+  },
+  "name_translations": {
+    "de": "Island",
+    "es": "Islandia",
+    "fr": "Islande",
+    "it": "Islanda",
+    "ja": "アイスランド",
+    "nl": "IJsland",
+    "hr": "Island",
+    "is": "Ísland"
+  }
+}

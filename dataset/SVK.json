@@ -1,0 +1,43 @@
+{
+  "name": "Slovakia",
+  "top_level_domains": [
+    ".sk"
+  ],
+  "iso2": "SK",
+  "iso3": "SVK",
+  "ison": 703,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "421"
+  ],
+  "languages": [
+    "sk"
+  ],
+  "capital": "Bratislava",
+  "id": "SVK",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "latitude": 48.66666666,
+    "longitude": 19.5
+  },
+  "name_translations": {
+    "de": "Slowakei",
+    "es": "República Eslovaca",
+    "fr": "Slovaquie",
+    "it": "Slovacchia",
+    "ja": "スロバキア",
+    "nl": "Slowakije",
+    "hr": "Slovačka",
+    "sk": "Slovensko"
+  }
+}

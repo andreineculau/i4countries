@@ -1,0 +1,42 @@
+{
+  "name": "Azerbaijan",
+  "top_level_domains": [
+    ".az"
+  ],
+  "iso2": "AZ",
+  "iso3": "AZE",
+  "ison": 31,
+  "currencies": [
+    "AZN"
+  ],
+  "calling_codes": [
+    "994"
+  ],
+  "languages": [
+    "az",
+    "hy"
+  ],
+  "capital": "Baku",
+  "id": "AZE",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "latitude": 40.5,
+    "longitude": 47.5
+  },
+  "name_translations": {
+    "de": "Aserbaidschan",
+    "es": "Azerbaiyán",
+    "fr": "Azerbaïdjan",
+    "ja": "アゼルバイジャン",
+    "nl": "Azerbeidzjan",
+    "hr": "Azerbajdžan"
+  }
+}

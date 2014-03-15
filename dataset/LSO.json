@@ -1,0 +1,35 @@
+{
+  "name": "Lesotho",
+  "top_level_domains": [
+    ".ls"
+  ],
+  "iso2": "LS",
+  "iso3": "LSO",
+  "ison": 426,
+  "currencies": [
+    "LSL",
+    "ZAR"
+  ],
+  "calling_codes": [
+    "266"
+  ],
+  "languages": [
+    "en",
+    "st"
+  ],
+  "capital": "Maseru",
+  "id": "LSO",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "bordering_countries": [
+      "ZAF"
+    ],
+    "latitude": -29.5,
+    "longitude": 28.5
+  },
+  "name_translations": {
+    "ja": "レソト",
+    "hr": "Lesoto"
+  }
+}

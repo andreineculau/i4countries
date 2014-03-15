@@ -1,0 +1,39 @@
+{
+  "name": "Myanmar",
+  "top_level_domains": [
+    ".mm"
+  ],
+  "iso2": "MM",
+  "iso3": "MMR",
+  "ison": 104,
+  "currencies": [
+    "MMK"
+  ],
+  "calling_codes": [
+    "95"
+  ],
+  "languages": [
+    "my"
+  ],
+  "capital": "Naypyidaw",
+  "id": "MMR",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "latitude": 22,
+    "longitude": 98
+  },
+  "name_translations": {
+    "it": "Birmania",
+    "ja": "ミャンマー",
+    "hr": "Mijanmar",
+    "my": "Myanma"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Guernsey",
+  "top_level_domains": [
+    ".gg"
+  ],
+  "iso2": "GG",
+  "iso3": "GGY",
+  "ison": 831,
+  "currencies": [
+    "GBP"
+  ],
+  "calling_codes": [
+    "44"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "capital": "St. Peter Port",
+  "id": "GGY",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [],
+    "latitude": 49.46666666,
+    "longitude": -2.58333333
+  },
+  "name_translations": {
+    "fr": "Guernesey",
+    "ja": "ガーンジー"
+  }
+}

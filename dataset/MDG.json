@@ -1,0 +1,34 @@
+{
+  "name": "Madagascar",
+  "top_level_domains": [
+    ".mg"
+  ],
+  "iso2": "MG",
+  "iso3": "MDG",
+  "ison": 450,
+  "currencies": [
+    "MGA"
+  ],
+  "calling_codes": [
+    "261"
+  ],
+  "languages": [
+    "fr",
+    "mg"
+  ],
+  "capital": "Antananarivo",
+  "id": "MDG",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [],
+    "latitude": -20,
+    "longitude": 47
+  },
+  "name_translations": {
+    "de": "Madagaskar",
+    "ja": "マダガスカル",
+    "nl": "Madagaskar",
+    "hr": "Madagaskar"
+  }
+}

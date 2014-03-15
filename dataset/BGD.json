@@ -1,0 +1,36 @@
+{
+  "name": "Bangladesh",
+  "top_level_domains": [
+    ".bd"
+  ],
+  "iso2": "BD",
+  "iso3": "BGD",
+  "ison": 50,
+  "currencies": [
+    "BDT"
+  ],
+  "calling_codes": [
+    "880"
+  ],
+  "languages": [
+    "bn"
+  ],
+  "capital": "Dhaka",
+  "id": "BGD",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [
+      "MMR",
+      "IND"
+    ],
+    "latitude": 24,
+    "longitude": 90
+  },
+  "name_translations": {
+    "de": "Bangladesch",
+    "ja": "バングラデシュ",
+    "hr": "Bangladeš",
+    "bn": "Bangladesh"
+  }
+}

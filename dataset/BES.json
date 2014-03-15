@@ -1,0 +1,31 @@
+{
+  "name": "Bonaire",
+  "top_level_domains": [
+    ".an",
+    ".nl"
+  ],
+  "iso2": "BQ",
+  "iso3": "BES",
+  "ison": 535,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "5997"
+  ],
+  "languages": [
+    "nl"
+  ],
+  "capital": "Kralendijk",
+  "id": "BES",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 12.15,
+    "longitude": -68.266667
+  },
+  "name_translations": {
+    "nl": "Bonaire"
+  }
+}

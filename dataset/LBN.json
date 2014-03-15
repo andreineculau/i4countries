@@ -1,0 +1,40 @@
+{
+  "name": "Lebanon",
+  "top_level_domains": [
+    ".lb"
+  ],
+  "iso2": "LB",
+  "iso3": "LBN",
+  "ison": 422,
+  "currencies": [
+    "LBP"
+  ],
+  "calling_codes": [
+    "961"
+  ],
+  "languages": [
+    "ar",
+    "fr"
+  ],
+  "capital": "Beirut",
+  "id": "LBN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "ISR",
+      "SYR"
+    ],
+    "latitude": 33.83333333,
+    "longitude": 35.83333333
+  },
+  "name_translations": {
+    "de": "Libanon",
+    "es": "Líbano",
+    "fr": "Liban",
+    "it": "Libano",
+    "ja": "レバノン",
+    "nl": "Libanon",
+    "hr": "Libanon"
+  }
+}

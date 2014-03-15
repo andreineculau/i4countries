@@ -1,0 +1,35 @@
+{
+  "name": "Sierra Leone",
+  "top_level_domains": [
+    ".sl"
+  ],
+  "iso2": "SL",
+  "iso3": "SLE",
+  "ison": 694,
+  "currencies": [
+    "SLL"
+  ],
+  "calling_codes": [
+    "232"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Freetown",
+  "id": "SLE",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "GIN",
+      "LBR"
+    ],
+    "latitude": 8.5,
+    "longitude": -11.5
+  },
+  "name_translations": {
+    "ja": "シエラレオネ",
+    "hr": "Sijera Leone",
+    "en": "Sierra Leone"
+  }
+}

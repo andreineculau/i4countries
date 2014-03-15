@@ -1,0 +1,41 @@
+{
+  "name": "Rwanda",
+  "top_level_domains": [
+    ".rw"
+  ],
+  "iso2": "RW",
+  "iso3": "RWA",
+  "ison": 646,
+  "currencies": [
+    "RWF"
+  ],
+  "calling_codes": [
+    "250"
+  ],
+  "languages": [
+    "rw",
+    "en",
+    "fr"
+  ],
+  "capital": "Kigali",
+  "id": "RWA",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "latitude": -2,
+    "longitude": 30
+  },
+  "name_translations": {
+    "de": "Ruanda",
+    "es": "Ruanda",
+    "it": "Ruanda",
+    "ja": "ルワンダ",
+    "hr": "Ruanda"
+  }
+}

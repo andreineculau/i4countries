@@ -1,0 +1,31 @@
+{
+  "name": "Mayotte",
+  "top_level_domains": [
+    ".yt"
+  ],
+  "iso2": "YT",
+  "iso3": "MYT",
+  "ison": 175,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "262"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Mamoudzou",
+  "id": "MYT",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [],
+    "latitude": -12.83333333,
+    "longitude": 45.16666666
+  },
+  "name_translations": {
+    "ja": "マヨット",
+    "fr": "Mayotte"
+  }
+}

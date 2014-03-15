@@ -1,0 +1,42 @@
+{
+  "name": "Kyrgyzstan",
+  "top_level_domains": [
+    ".kg"
+  ],
+  "iso2": "KG",
+  "iso3": "KGZ",
+  "ison": 417,
+  "currencies": [
+    "KGS"
+  ],
+  "calling_codes": [
+    "996"
+  ],
+  "languages": [
+    "ky",
+    "ru"
+  ],
+  "capital": "Bishkek",
+  "id": "KGZ",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "bordering_countries": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "latitude": 41,
+    "longitude": 75
+  },
+  "name_translations": {
+    "de": "Kirgisistan",
+    "es": "Kirguizistán",
+    "fr": "Kirghizistan",
+    "it": "Kirghizistan",
+    "ja": "キルギス",
+    "nl": "Kirgizië",
+    "hr": "Kirgistan"
+  }
+}

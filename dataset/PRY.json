@@ -1,0 +1,36 @@
+{
+  "name": "Paraguay",
+  "top_level_domains": [
+    ".py"
+  ],
+  "iso2": "PY",
+  "iso3": "PRY",
+  "ison": 600,
+  "currencies": [
+    "PYG"
+  ],
+  "calling_codes": [
+    "595"
+  ],
+  "languages": [
+    "es",
+    "gn"
+  ],
+  "capital": "Asunción",
+  "id": "PRY",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "latitude": -23,
+    "longitude": -58
+  },
+  "name_translations": {
+    "ja": "パラグアイ",
+    "hr": "Paragvaj"
+  }
+}

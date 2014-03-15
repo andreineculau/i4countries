@@ -1,0 +1,35 @@
+{
+  "name": "Togo",
+  "top_level_domains": [
+    ".tg"
+  ],
+  "iso2": "TG",
+  "iso3": "TGO",
+  "ison": 768,
+  "currencies": [
+    "XOF"
+  ],
+  "calling_codes": [
+    "228"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Lomé",
+  "id": "TGO",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "latitude": 8,
+    "longitude": 1.16666666
+  },
+  "name_translations": {
+    "ja": "トーゴ",
+    "fr": "Togo"
+  }
+}

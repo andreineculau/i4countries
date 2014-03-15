@@ -1,0 +1,32 @@
+{
+  "name": "Grenada",
+  "top_level_domains": [
+    ".gd"
+  ],
+  "iso2": "GD",
+  "iso3": "GRD",
+  "ison": 308,
+  "currencies": [
+    "XCD"
+  ],
+  "calling_codes": [
+    "1473"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "St. George's",
+  "id": "GRD",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 12.11666666,
+    "longitude": -61.66666666
+  },
+  "name_translations": {
+    "fr": "Grenade",
+    "ja": "グレナダ",
+    "en": "Grenada"
+  }
+}

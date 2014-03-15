@@ -1,0 +1,42 @@
+{
+  "name": "Sudan",
+  "top_level_domains": [
+    ".sd"
+  ],
+  "iso2": "SD",
+  "iso3": "SDN",
+  "ison": 729,
+  "currencies": [
+    "SDG"
+  ],
+  "calling_codes": [
+    "249"
+  ],
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "capital": "Khartoum",
+  "id": "SDN",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "bordering_countries": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "latitude": 15,
+    "longitude": 30
+  },
+  "name_translations": {
+    "es": "Sudán",
+    "fr": "Soudan",
+    "ja": "スーダン",
+    "nl": "Soedan"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Haiti",
+  "top_level_domains": [
+    ".ht"
+  ],
+  "iso2": "HT",
+  "iso3": "HTI",
+  "ison": 332,
+  "currencies": [
+    "HTG",
+    "USD"
+  ],
+  "calling_codes": [
+    "509"
+  ],
+  "languages": [
+    "fr",
+    "ht"
+  ],
+  "capital": "Port-au-Prince",
+  "id": "HTI",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [
+      "DOM"
+    ],
+    "latitude": 19,
+    "longitude": -72.41666666
+  },
+  "name_translations": {
+    "fr": "Haïti",
+    "ja": "ハイチ",
+    "nl": "Haïti"
+  }
+}

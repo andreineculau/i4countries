@@ -1,0 +1,37 @@
+{
+  "name": "Svalbard and Jan Mayen",
+  "top_level_domains": [
+    ".sj"
+  ],
+  "iso2": "SJ",
+  "iso3": "SJM",
+  "ison": 744,
+  "currencies": [
+    "NOK"
+  ],
+  "calling_codes": [
+    "4779"
+  ],
+  "languages": [
+    "no"
+  ],
+  "capital": "Longyearbyen",
+  "id": "SJM",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [],
+    "latitude": 78,
+    "longitude": 20
+  },
+  "name_translations": {
+    "de": "Svalbard und Jan Mayen",
+    "es": "Islas Svalbard y Jan Mayen",
+    "fr": "Svalbard et Jan Mayen",
+    "it": "Svalbard e Jan Mayen",
+    "ja": "スヴァールバル諸島およびヤンマイエン島",
+    "nl": "Svalbard en Jan Mayen",
+    "hr": "Svalbard i Jan Mayen",
+    "no": "Svalbard og Jan Mayen"
+  }
+}

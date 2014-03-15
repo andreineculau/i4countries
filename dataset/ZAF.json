@@ -1,0 +1,52 @@
+{
+  "name": "South Africa",
+  "top_level_domains": [
+    ".za"
+  ],
+  "iso2": "ZA",
+  "iso3": "ZAF",
+  "ison": 710,
+  "currencies": [
+    "ZAR"
+  ],
+  "calling_codes": [
+    "27"
+  ],
+  "languages": [
+    "af",
+    "en",
+    "nr",
+    "st",
+    "ss",
+    "tn",
+    "ts",
+    "ve",
+    "xh",
+    "zu"
+  ],
+  "capital": "Pretoria",
+  "id": "ZAF",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "bordering_countries": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "latitude": -29,
+    "longitude": 24
+  },
+  "name_translations": {
+    "de": "Republik Südafrika",
+    "es": "República de Sudáfrica",
+    "fr": "Afrique du Sud",
+    "it": "Sud Africa",
+    "ja": "南アフリカ",
+    "nl": "Zuid-Afrika",
+    "hr": "Južnoafrička Republika"
+  }
+}

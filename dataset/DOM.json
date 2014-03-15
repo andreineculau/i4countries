@@ -1,0 +1,40 @@
+{
+  "name": "Dominican Republic",
+  "top_level_domains": [
+    ".do"
+  ],
+  "iso2": "DO",
+  "iso3": "DOM",
+  "ison": 214,
+  "currencies": [
+    "DOP"
+  ],
+  "calling_codes": [
+    "1809",
+    "1829",
+    "1849"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Santo Domingo",
+  "id": "DOM",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [
+      "HTI"
+    ],
+    "latitude": 19,
+    "longitude": -70.66666666
+  },
+  "name_translations": {
+    "de": "Dominikanische Republik",
+    "es": "República Dominicana",
+    "fr": "République dominicaine",
+    "it": "Repubblica Dominicana",
+    "ja": "ドミニカ共和国",
+    "nl": "Dominicaanse Republiek",
+    "hr": "Dominikanska Republika"
+  }
+}

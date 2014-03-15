@@ -1,0 +1,33 @@
+{
+  "name": "Tokelau",
+  "top_level_domains": [
+    ".tk"
+  ],
+  "iso2": "TK",
+  "iso3": "TKL",
+  "ison": 772,
+  "currencies": [
+    "NZD"
+  ],
+  "calling_codes": [
+    "690"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Fakaofo",
+  "id": "TKL",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -9,
+    "longitude": -172
+  },
+  "name_translations": {
+    "es": "Islas Tokelau",
+    "it": "Isole Tokelau",
+    "ja": "トケラウ",
+    "en": "Tokelau"
+  }
+}

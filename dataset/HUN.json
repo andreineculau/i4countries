@@ -1,0 +1,45 @@
+{
+  "name": "Hungary",
+  "top_level_domains": [
+    ".hu"
+  ],
+  "iso2": "HU",
+  "iso3": "HUN",
+  "ison": 348,
+  "currencies": [
+    "HUF"
+  ],
+  "calling_codes": [
+    "36"
+  ],
+  "languages": [
+    "hu"
+  ],
+  "capital": "Budapest",
+  "id": "HUN",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "latitude": 47,
+    "longitude": 20
+  },
+  "name_translations": {
+    "de": "Ungarn",
+    "es": "Hungría",
+    "fr": "Hongrie",
+    "it": "Ungheria",
+    "ja": "ハンガリー",
+    "nl": "Hongarije",
+    "hr": "Mađarska",
+    "hu": "Magyarország"
+  }
+}

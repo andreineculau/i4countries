@@ -1,0 +1,34 @@
+{
+  "name": "Hong Kong",
+  "top_level_domains": [
+    ".hk"
+  ],
+  "iso2": "HK",
+  "iso3": "HKG",
+  "ison": 344,
+  "currencies": [
+    "HKD"
+  ],
+  "calling_codes": [
+    "852"
+  ],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "capital": "City of Victoria",
+  "id": "HKG",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "bordering_countries": [
+      "CHN"
+    ],
+    "latitude": 22.25,
+    "longitude": 114.16666666
+  },
+  "name_translations": {
+    "ja": "香港",
+    "nl": "Hongkong"
+  }
+}

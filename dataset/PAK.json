@@ -1,0 +1,37 @@
+{
+  "name": "Pakistan",
+  "top_level_domains": [
+    ".pk"
+  ],
+  "iso2": "PK",
+  "iso3": "PAK",
+  "ison": 586,
+  "currencies": [
+    "PKR"
+  ],
+  "calling_codes": [
+    "92"
+  ],
+  "languages": [
+    "en",
+    "ur"
+  ],
+  "capital": "Islamabad",
+  "id": "PAK",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "bordering_countries": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "latitude": 30,
+    "longitude": 70
+  },
+  "name_translations": {
+    "es": "Pakistán",
+    "ja": "パキスタン"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "New Zealand",
+  "top_level_domains": [
+    ".nz"
+  ],
+  "iso2": "NZ",
+  "iso3": "NZL",
+  "ison": 554,
+  "currencies": [
+    "NZD"
+  ],
+  "calling_codes": [
+    "64"
+  ],
+  "languages": [
+    "en",
+    "mi"
+  ],
+  "capital": "Wellington",
+  "id": "NZL",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "bordering_countries": [],
+    "latitude": -41,
+    "longitude": 174
+  },
+  "name_translations": {
+    "fr": "Nouvelle-Zélande",
+    "nl": "Nieuw-Zeeland",
+    "de": "Neuseeland",
+    "it": "Nuova Zelanda",
+    "ja": "ニュージーランド",
+    "es": "Nueva Zelanda",
+    "hr": "Novi Zeland"
+  }
+}

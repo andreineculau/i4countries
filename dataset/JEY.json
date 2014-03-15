@@ -1,0 +1,32 @@
+{
+  "name": "Jersey",
+  "top_level_domains": [
+    ".je"
+  ],
+  "iso2": "JE",
+  "iso3": "JEY",
+  "ison": 832,
+  "currencies": [
+    "GBP"
+  ],
+  "calling_codes": [
+    "44"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "capital": "Saint Helier",
+  "id": "JEY",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [],
+    "latitude": 49.25,
+    "longitude": -2.16666666
+  },
+  "name_translations": {
+    "it": "Isola di Jersey",
+    "ja": "ジャージー"
+  }
+}

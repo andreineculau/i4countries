@@ -1,0 +1,41 @@
+{
+  "name": "Guinea",
+  "top_level_domains": [
+    ".gn"
+  ],
+  "iso2": "GN",
+  "iso3": "GIN",
+  "ison": 324,
+  "currencies": [
+    "GNF"
+  ],
+  "calling_codes": [
+    "224"
+  ],
+  "languages": [
+    "fr",
+    "ff"
+  ],
+  "capital": "Conakry",
+  "id": "GIN",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "latitude": 11,
+    "longitude": -10
+  },
+  "name_translations": {
+    "fr": "Guinée",
+    "ja": "ギニア",
+    "nl": "Guinee",
+    "hr": "Gvineja"
+  }
+}

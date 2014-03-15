@@ -1,0 +1,37 @@
+{
+  "name": "Comoros",
+  "top_level_domains": [
+    ".km"
+  ],
+  "iso2": "KM",
+  "iso3": "COM",
+  "ison": 174,
+  "currencies": [
+    "KMF"
+  ],
+  "calling_codes": [
+    "269"
+  ],
+  "languages": [
+    "ar",
+    "fr"
+  ],
+  "capital": "Moroni",
+  "id": "COM",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [],
+    "latitude": -12.16666666,
+    "longitude": 44.25
+  },
+  "name_translations": {
+    "de": "Union der Komoren",
+    "es": "Comoras",
+    "fr": "Comores",
+    "it": "Comore",
+    "ja": "コモロ",
+    "nl": "Comoren",
+    "hr": "Komori"
+  }
+}

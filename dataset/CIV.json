@@ -1,0 +1,42 @@
+{
+  "name": "Ivory Coast",
+  "top_level_domains": [
+    ".ci"
+  ],
+  "iso2": "CI",
+  "iso3": "CIV",
+  "ison": 384,
+  "currencies": [
+    "XOF"
+  ],
+  "calling_codes": [
+    "225"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Yamoussoukro",
+  "id": "CIV",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "latitude": 8,
+    "longitude": -5
+  },
+  "name_translations": {
+    "de": "Elfenbeinküste",
+    "es": "Costa de Marfil",
+    "fr": "Côte d'Ivoire",
+    "it": "Costa D'Avorio",
+    "ja": "コートジボワール",
+    "nl": "Ivoorkust",
+    "hr": "Obala Bjelokosti"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "France",
+  "top_level_domains": [
+    ".fr"
+  ],
+  "iso2": "FR",
+  "iso3": "FRA",
+  "ison": 250,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "33"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Paris",
+  "id": "FRA",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "latitude": 46,
+    "longitude": 2
+  },
+  "name_translations": {
+    "de": "Frankreich",
+    "es": "Francia",
+    "it": "Francia",
+    "ja": "フランス",
+    "nl": "Frankrijk",
+    "hr": "Francuska",
+    "fr": "France"
+  }
+}

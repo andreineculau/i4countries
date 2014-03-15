@@ -1,0 +1,40 @@
+{
+  "name": "Palestine",
+  "top_level_domains": [
+    ".ps"
+  ],
+  "iso2": "PS",
+  "iso3": "PSE",
+  "ison": 275,
+  "currencies": [
+    "ILS"
+  ],
+  "calling_codes": [
+    "970"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Ramallah",
+  "id": "PSE",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "latitude": 31.9,
+    "longitude": 35.2
+  },
+  "name_translations": {
+    "de": "Palästina",
+    "es": "Palestina",
+    "it": "Palestina",
+    "ja": "パレスチナ",
+    "nl": "Palestijnse gebieden",
+    "hr": "Palestina",
+    "ar": "فلسطين"
+  }
+}

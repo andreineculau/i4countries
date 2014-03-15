@@ -1,0 +1,32 @@
+{
+  "name": "Barbados",
+  "top_level_domains": [
+    ".bb"
+  ],
+  "iso2": "BB",
+  "iso3": "BRB",
+  "ison": 52,
+  "currencies": [
+    "BBD"
+  ],
+  "calling_codes": [
+    "1246"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Bridgetown",
+  "id": "BRB",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 13.16666666,
+    "longitude": -59.53333333
+  },
+  "name_translations": {
+    "fr": "Barbade",
+    "ja": "バルバドス",
+    "en": "Barbados"
+  }
+}

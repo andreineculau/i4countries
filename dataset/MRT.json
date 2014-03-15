@@ -1,0 +1,40 @@
+{
+  "name": "Mauritania",
+  "top_level_domains": [
+    ".mr"
+  ],
+  "iso2": "MR",
+  "iso3": "MRT",
+  "ison": 478,
+  "currencies": [
+    "MRO"
+  ],
+  "calling_codes": [
+    "222"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Nouakchott",
+  "id": "MRT",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "latitude": 20,
+    "longitude": -12
+  },
+  "name_translations": {
+    "de": "Mauretanien",
+    "fr": "Mauritanie",
+    "ja": "モーリタニア",
+    "nl": "Mauritanië",
+    "hr": "Mauritanija",
+    "ar": "موريتانيا"
+  }
+}

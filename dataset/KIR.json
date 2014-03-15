@@ -1,0 +1,31 @@
+{
+  "name": "Kiribati",
+  "top_level_domains": [
+    ".ki"
+  ],
+  "iso2": "KI",
+  "iso3": "KIR",
+  "ison": 296,
+  "currencies": [
+    "AUD"
+  ],
+  "calling_codes": [
+    "686"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "South Tarawa",
+  "id": "KIR",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "bordering_countries": [],
+    "latitude": 1.41666666,
+    "longitude": 173
+  },
+  "name_translations": {
+    "ja": "キリバス",
+    "en": "Kiribati"
+  }
+}

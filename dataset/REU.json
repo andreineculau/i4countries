@@ -1,0 +1,33 @@
+{
+  "name": "Réunion",
+  "top_level_domains": [
+    ".re"
+  ],
+  "iso2": "RE",
+  "iso3": "REU",
+  "ison": 638,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "262"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Saint-Denis",
+  "id": "REU",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [],
+    "latitude": -21.15,
+    "longitude": 55.5
+  },
+  "name_translations": {
+    "es": "Reunión",
+    "it": "Riunione",
+    "ja": "レユニオン",
+    "fr": "La Réunion"
+  }
+}

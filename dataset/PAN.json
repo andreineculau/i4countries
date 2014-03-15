@@ -1,0 +1,35 @@
+{
+  "name": "Panama",
+  "top_level_domains": [
+    ".pa"
+  ],
+  "iso2": "PA",
+  "iso3": "PAN",
+  "ison": 591,
+  "currencies": [
+    "PAB",
+    "USD"
+  ],
+  "calling_codes": [
+    "507"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Panama City",
+  "id": "PAN",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Central America",
+    "bordering_countries": [
+      "COL",
+      "CRI"
+    ],
+    "latitude": 9,
+    "longitude": -80
+  },
+  "name_translations": {
+    "es": "Panamá",
+    "ja": "パナマ"
+  }
+}

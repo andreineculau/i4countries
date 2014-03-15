@@ -1,0 +1,34 @@
+{
+  "name": "Brunei",
+  "top_level_domains": [
+    ".bn"
+  ],
+  "iso2": "BN",
+  "iso3": "BRN",
+  "ison": 96,
+  "currencies": [
+    "BND"
+  ],
+  "calling_codes": [
+    "673"
+  ],
+  "languages": [
+    "ms"
+  ],
+  "capital": "Bandar Seri Begawan",
+  "id": "BRN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "MYS"
+    ],
+    "latitude": 4.5,
+    "longitude": 114.66666666
+  },
+  "name_translations": {
+    "ja": "ブルネイ・ダルサラーム",
+    "hr": "Brunej",
+    "ms": "Negara Brunei Darussalam"
+  }
+}

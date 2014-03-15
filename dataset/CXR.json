@@ -1,0 +1,37 @@
+{
+  "name": "Christmas Island",
+  "top_level_domains": [
+    ".cx"
+  ],
+  "iso2": "CX",
+  "iso3": "CXR",
+  "ison": 162,
+  "currencies": [
+    "AUD"
+  ],
+  "calling_codes": [
+    "61"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Flying Fish Cove",
+  "id": "CXR",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "bordering_countries": [],
+    "latitude": -10.5,
+    "longitude": 105.66666666
+  },
+  "name_translations": {
+    "fr": "Île Christmas",
+    "nl": "Christmaseiland",
+    "de": "Weihnachtsinsel",
+    "it": "Isola di Natale",
+    "ja": "クリスマス島",
+    "es": "Isla de Navidad",
+    "hr": "Božićni otok",
+    "en": "Christmas Island"
+  }
+}

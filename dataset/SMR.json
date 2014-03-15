@@ -1,0 +1,34 @@
+{
+  "name": "San Marino",
+  "top_level_domains": [
+    ".sm"
+  ],
+  "iso2": "SM",
+  "iso3": "SMR",
+  "ison": 674,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "378"
+  ],
+  "languages": [
+    "it"
+  ],
+  "capital": "City of San Marino",
+  "id": "SMR",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "ITA"
+    ],
+    "latitude": 43.76666666,
+    "longitude": 12.41666666
+  },
+  "name_translations": {
+    "fr": "Saint-Marin",
+    "ja": "サンマリノ",
+    "it": "San Marino"
+  }
+}

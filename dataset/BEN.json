@@ -1,0 +1,37 @@
+{
+  "name": "Benin",
+  "top_level_domains": [
+    ".bj"
+  ],
+  "iso2": "BJ",
+  "iso3": "BEN",
+  "ison": 204,
+  "currencies": [
+    "XOF"
+  ],
+  "calling_codes": [
+    "229"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Porto-Novo",
+  "id": "BEN",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "latitude": 9.5,
+    "longitude": 2.25
+  },
+  "name_translations": {
+    "es": "Benín",
+    "fr": "Bénin",
+    "ja": "ベナン"
+  }
+}

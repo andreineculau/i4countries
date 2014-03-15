@@ -1,0 +1,47 @@
+{
+  "name": "Brazil",
+  "top_level_domains": [
+    ".br"
+  ],
+  "iso2": "BR",
+  "iso3": "BRA",
+  "ison": 76,
+  "currencies": [
+    "BRL"
+  ],
+  "calling_codes": [
+    "55"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "capital": "Brasília",
+  "id": "BRA",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "South America",
+    "bordering_countries": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "latitude": -10,
+    "longitude": -55
+  },
+  "name_translations": {
+    "de": "Brasilien",
+    "es": "Brasil",
+    "fr": "Brésil",
+    "it": "Brasile",
+    "ja": "ブラジル",
+    "nl": "Brazilië",
+    "pt": "Brasil"
+  }
+}

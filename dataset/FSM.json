@@ -1,0 +1,35 @@
+{
+  "name": "Micronesia",
+  "top_level_domains": [
+    ".fm"
+  ],
+  "iso2": "FM",
+  "iso3": "FSM",
+  "ison": 583,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "691"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Palikir",
+  "id": "FSM",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "bordering_countries": [],
+    "latitude": 6.91666666,
+    "longitude": 158.25
+  },
+  "name_translations": {
+    "de": "Mikronesien",
+    "fr": "Micronésie",
+    "ja": "ミクロネシア連邦",
+    "nl": "Micronesië",
+    "hr": "Mikronezija",
+    "en": "Micronesia"
+  }
+}

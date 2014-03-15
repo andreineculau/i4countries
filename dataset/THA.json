@@ -1,0 +1,40 @@
+{
+  "name": "Thailand",
+  "top_level_domains": [
+    ".th"
+  ],
+  "iso2": "TH",
+  "iso3": "THA",
+  "ison": 764,
+  "currencies": [
+    "THB"
+  ],
+  "calling_codes": [
+    "66"
+  ],
+  "languages": [
+    "th"
+  ],
+  "capital": "Bangkok",
+  "id": "THA",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "Burma",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "latitude": 15,
+    "longitude": 100
+  },
+  "name_translations": {
+    "fr": "Thaïlande",
+    "it": "Tailandia",
+    "ja": "タイ",
+    "es": "Tailandia",
+    "hr": "Tajland",
+    "th": "ประเทศไทย"
+  }
+}

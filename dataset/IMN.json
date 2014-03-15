@@ -1,0 +1,36 @@
+{
+  "name": "Isle of Man",
+  "top_level_domains": [
+    ".im"
+  ],
+  "iso2": "IM",
+  "iso3": "IMN",
+  "ison": 833,
+  "currencies": [
+    "GBP"
+  ],
+  "calling_codes": [
+    "44"
+  ],
+  "languages": [
+    "en",
+    "gv"
+  ],
+  "capital": "Douglas",
+  "id": "IMN",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [],
+    "latitude": 54.25,
+    "longitude": -4.5
+  },
+  "name_translations": {
+    "de": "Insel Man",
+    "es": "Isla de Man",
+    "fr": "Île de Man",
+    "it": "Isola di Man",
+    "ja": "マン島",
+    "hr": "Otok Man"
+  }
+}

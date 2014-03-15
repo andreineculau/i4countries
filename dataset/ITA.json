@@ -1,0 +1,43 @@
+{
+  "name": "Italy",
+  "top_level_domains": [
+    ".it"
+  ],
+  "iso2": "IT",
+  "iso3": "ITA",
+  "ison": 380,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "39"
+  ],
+  "languages": [
+    "it"
+  ],
+  "capital": "Rome",
+  "id": "ITA",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "latitude": 42.83333333,
+    "longitude": 12.83333333
+  },
+  "name_translations": {
+    "de": "Italien",
+    "es": "Italia",
+    "fr": "Italie",
+    "it": "Italia",
+    "ja": "イタリア",
+    "nl": "Italië",
+    "hr": "Italija"
+  }
+}

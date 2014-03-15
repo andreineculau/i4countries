@@ -1,0 +1,44 @@
+{
+  "name": "Algeria",
+  "top_level_domains": [
+    ".dz"
+  ],
+  "iso2": "DZ",
+  "iso3": "DZA",
+  "ison": 12,
+  "currencies": [
+    "DZD"
+  ],
+  "calling_codes": [
+    "213"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Algiers",
+  "id": "DZA",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "bordering_countries": [
+      "TUN",
+      "LDY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "latitude": 28,
+    "longitude": 3
+  },
+  "name_translations": {
+    "de": "Algerien",
+    "es": "Argelia",
+    "fr": "Algérie",
+    "ja": "アルジェリア",
+    "nl": "Algerije",
+    "hr": "Alžir",
+    "ar": "الجزائر"
+  }
+}

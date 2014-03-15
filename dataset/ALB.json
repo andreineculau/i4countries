@@ -1,0 +1,40 @@
+{
+  "name": "Albania",
+  "top_level_domains": [
+    ".al"
+  ],
+  "iso2": "AL",
+  "iso3": "ALB",
+  "ison": 8,
+  "currencies": [
+    "ALL"
+  ],
+  "calling_codes": [
+    "355"
+  ],
+  "languages": [
+    "sq"
+  ],
+  "capital": "Tirana",
+  "id": "ALB",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "KOS"
+    ],
+    "latitude": 41,
+    "longitude": 20
+  },
+  "name_translations": {
+    "de": "Albanien",
+    "fr": "Albanie",
+    "ja": "アルバニア",
+    "nl": "Albanië",
+    "hr": "Albanija",
+    "sq": "Shqipëria"
+  }
+}

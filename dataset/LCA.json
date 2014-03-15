@@ -1,0 +1,35 @@
+{
+  "name": "Saint Lucia",
+  "top_level_domains": [
+    ".lc"
+  ],
+  "iso2": "LC",
+  "iso3": "LCA",
+  "ison": 662,
+  "currencies": [
+    "XCD"
+  ],
+  "calling_codes": [
+    "1758"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Castries",
+  "id": "LCA",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 13.88333333,
+    "longitude": -60.96666666
+  },
+  "name_translations": {
+    "es": "Santa Lucía",
+    "fr": "Saint-Lucie",
+    "it": "Santa Lucia",
+    "ja": "セントルシア",
+    "hr": "Sveta Lucija",
+    "en": "Saint Lucia"
+  }
+}

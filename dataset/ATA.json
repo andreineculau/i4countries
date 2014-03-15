@@ -1,0 +1,33 @@
+{
+  "name": "Antarctica",
+  "top_level_domains": [
+    ".aq"
+  ],
+  "iso2": "AQ",
+  "iso3": "ATA",
+  "ison": 10,
+  "currencies": [
+    ""
+  ],
+  "calling_codes": [
+    ""
+  ],
+  "languages": [],
+  "capital": "",
+  "id": "ATA",
+  "geolocation": {
+    "region": "",
+    "subregion": "",
+    "bordering_countries": [],
+    "latitude": -90,
+    "longitude": 0
+  },
+  "name_translations": {
+    "de": "Antarktis",
+    "es": "Antártida",
+    "fr": "Antarctique",
+    "it": "Antartide",
+    "ja": "南極",
+    "hr": "Antarktika"
+  }
+}

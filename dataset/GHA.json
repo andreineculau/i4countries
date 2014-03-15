@@ -1,0 +1,36 @@
+{
+  "name": "Ghana",
+  "top_level_domains": [
+    ".gh"
+  ],
+  "iso2": "GH",
+  "iso3": "GHA",
+  "ison": 288,
+  "currencies": [
+    "GHS"
+  ],
+  "calling_codes": [
+    "233"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Accra",
+  "id": "GHA",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "latitude": 8,
+    "longitude": -2
+  },
+  "name_translations": {
+    "ja": "ガーナ",
+    "hr": "Gana",
+    "en": "Ghana"
+  }
+}

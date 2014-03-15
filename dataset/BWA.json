@@ -1,0 +1,37 @@
+{
+  "name": "Botswana",
+  "top_level_domains": [
+    ".bw"
+  ],
+  "iso2": "BW",
+  "iso3": "BWA",
+  "ison": 72,
+  "currencies": [
+    "BWP"
+  ],
+  "calling_codes": [
+    "267"
+  ],
+  "languages": [
+    "en",
+    "tn"
+  ],
+  "capital": "Gaborone",
+  "id": "BWA",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "bordering_countries": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "latitude": -22,
+    "longitude": 24
+  },
+  "name_translations": {
+    "ja": "ボツワナ",
+    "hr": "Bocvana"
+  }
+}

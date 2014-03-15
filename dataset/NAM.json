@@ -1,0 +1,40 @@
+{
+  "name": "Namibia",
+  "top_level_domains": [
+    ".na"
+  ],
+  "iso2": "NA",
+  "iso3": "NAM",
+  "ison": 516,
+  "currencies": [
+    "NAD",
+    "ZAR"
+  ],
+  "calling_codes": [
+    "264"
+  ],
+  "languages": [
+    "en",
+    "af"
+  ],
+  "capital": "Windhoek",
+  "id": "NAM",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "bordering_countries": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "latitude": -22,
+    "longitude": 17
+  },
+  "name_translations": {
+    "fr": "Namibie",
+    "ja": "ナミビア",
+    "nl": "Namibië",
+    "hr": "Namibija"
+  }
+}

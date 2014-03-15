@@ -1,0 +1,35 @@
+{
+  "name": "Costa Rica",
+  "top_level_domains": [
+    ".cr"
+  ],
+  "iso2": "CR",
+  "iso3": "CRI",
+  "ison": 188,
+  "currencies": [
+    "CRC"
+  ],
+  "calling_codes": [
+    "506"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "San José",
+  "id": "CRI",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Central America",
+    "bordering_countries": [
+      "NIC",
+      "PAN"
+    ],
+    "latitude": 10,
+    "longitude": -84
+  },
+  "name_translations": {
+    "ja": "コスタリカ",
+    "hr": "Kostarika",
+    "es": "Costa Rica"
+  }
+}

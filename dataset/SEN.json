@@ -1,0 +1,37 @@
+{
+  "name": "Senegal",
+  "top_level_domains": [
+    ".sn"
+  ],
+  "iso2": "SN",
+  "iso3": "SEN",
+  "ison": 686,
+  "currencies": [
+    "XOF"
+  ],
+  "calling_codes": [
+    "221"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Dakar",
+  "id": "SEN",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "The Gambia",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "latitude": 14,
+    "longitude": -14
+  },
+  "name_translations": {
+    "fr": "Sénégal",
+    "ja": "セネガル"
+  }
+}

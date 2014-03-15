@@ -1,0 +1,44 @@
+{
+  "name": "Ethiopia",
+  "top_level_domains": [
+    ".et"
+  ],
+  "iso2": "ET",
+  "iso3": "ETH",
+  "ison": 231,
+  "currencies": [
+    "ETB"
+  ],
+  "calling_codes": [
+    "251"
+  ],
+  "languages": [
+    "am"
+  ],
+  "capital": "Addis Ababa",
+  "id": "ETH",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "latitude": 8,
+    "longitude": 38
+  },
+  "name_translations": {
+    "de": "Äthiopien",
+    "es": "Etiopía",
+    "fr": "Éthiopie",
+    "it": "Etiopia",
+    "ja": "エチオピア",
+    "nl": "Ethiopië",
+    "hr": "Etiopija",
+    "am": "ኢትዮጵያ"
+  }
+}

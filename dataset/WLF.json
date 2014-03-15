@@ -1,0 +1,36 @@
+{
+  "name": "Wallis and Futuna",
+  "top_level_domains": [
+    ".wf"
+  ],
+  "iso2": "WF",
+  "iso3": "WLF",
+  "ison": 876,
+  "currencies": [
+    "XPF"
+  ],
+  "calling_codes": [
+    "681"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "capital": "Mata-Utu",
+  "id": "WLF",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -13.3,
+    "longitude": -176.2
+  },
+  "name_translations": {
+    "de": "Wallis und Futuna",
+    "es": "Wallis y Futuna",
+    "fr": "Wallis et Futuna",
+    "it": "Wallis e Futuna",
+    "ja": "ウォリス・フツナ",
+    "nl": "Wallis en Futuna",
+    "hr": "Wallis i Fortuna"
+  }
+}

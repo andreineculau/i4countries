@@ -1,0 +1,37 @@
+{
+  "name": "Cook Islands",
+  "top_level_domains": [
+    ".ck"
+  ],
+  "iso2": "CK",
+  "iso3": "COK",
+  "ison": 184,
+  "currencies": [
+    "NZD"
+  ],
+  "calling_codes": [
+    "682"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Avarua",
+  "id": "COK",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -21.23333333,
+    "longitude": -159.76666666
+  },
+  "name_translations": {
+    "de": "Cookinseln",
+    "es": "Islas Cook",
+    "fr": "Îles Cook",
+    "it": "Isole Cook",
+    "ja": "クック諸島",
+    "nl": "Cookeilanden",
+    "hr": "Cookovo Otočje",
+    "en": "Cook Islands"
+  }
+}

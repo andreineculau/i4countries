@@ -1,0 +1,37 @@
+{
+  "name": "Greenland",
+  "top_level_domains": [
+    ".gl"
+  ],
+  "iso2": "GL",
+  "iso3": "GRL",
+  "ison": 304,
+  "currencies": [
+    "DKK"
+  ],
+  "calling_codes": [
+    "299"
+  ],
+  "languages": [
+    "kl"
+  ],
+  "capital": "Nuuk",
+  "id": "GRL",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Northern America",
+    "bordering_countries": [],
+    "latitude": 72,
+    "longitude": -40
+  },
+  "name_translations": {
+    "de": "Grönland",
+    "es": "Groenlandia",
+    "fr": "Groenland",
+    "it": "Groenlandia",
+    "ja": "グリーンランド",
+    "nl": "Groenland",
+    "hr": "Grenland",
+    "kl": "Kalaallit Nunaat"
+  }
+}

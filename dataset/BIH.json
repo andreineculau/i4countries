@@ -1,0 +1,42 @@
+{
+  "name": "Bosnia and Herzegovina",
+  "top_level_domains": [
+    ".ba"
+  ],
+  "iso2": "BA",
+  "iso3": "BIH",
+  "ison": 70,
+  "currencies": [
+    "BAM"
+  ],
+  "calling_codes": [
+    "387"
+  ],
+  "languages": [
+    "bs",
+    "hr",
+    "sr"
+  ],
+  "capital": "Sarajevo",
+  "id": "BIH",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "bordering_countries": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "latitude": 44,
+    "longitude": 18
+  },
+  "name_translations": {
+    "de": "Bosnien und Herzegowina",
+    "es": "Bosnia y Herzegovina",
+    "fr": "Bosnie-Herzégovine",
+    "it": "Bosnia ed Erzegovina",
+    "ja": "ボスニア・ヘルツェゴビナ",
+    "nl": "Bosnië en Herzegovina",
+    "hr": "Bosna i Hercegovina"
+  }
+}

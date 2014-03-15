@@ -1,0 +1,41 @@
+{
+  "name": "Morocco",
+  "top_level_domains": [
+    ".ma"
+  ],
+  "iso2": "MA",
+  "iso3": "MAR",
+  "ison": 504,
+  "currencies": [
+    "MAD"
+  ],
+  "calling_codes": [
+    "212"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Rabat",
+  "id": "MAR",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "bordering_countries": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "latitude": 32,
+    "longitude": -5
+  },
+  "name_translations": {
+    "de": "Marokko",
+    "es": "Marruecos",
+    "fr": "Maroc",
+    "it": "Marocco",
+    "ja": "モロッコ",
+    "nl": "Marokko",
+    "hr": "Maroko",
+    "ar": "المغرب"
+  }
+}

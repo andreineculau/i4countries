@@ -1,0 +1,37 @@
+{
+  "name": "Malaysia",
+  "top_level_domains": [
+    ".my"
+  ],
+  "iso2": "MY",
+  "iso3": "MYS",
+  "ison": 458,
+  "currencies": [
+    "MYR"
+  ],
+  "calling_codes": [
+    "60"
+  ],
+  "languages": [],
+  "capital": "Kuala Lumpur",
+  "id": "MYS",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "latitude": 2.5,
+    "longitude": 112.5
+  },
+  "name_translations": {
+    "fr": "Malaisie",
+    "nl": "Maleisië",
+    "it": "Malesia",
+    "ja": "マレーシア",
+    "es": "Malasia",
+    "hr": "Malezija"
+  }
+}

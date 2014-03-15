@@ -1,0 +1,37 @@
+{
+  "name": "Laos",
+  "top_level_domains": [
+    ".la"
+  ],
+  "iso2": "LA",
+  "iso3": "LAO",
+  "ison": 418,
+  "currencies": [
+    "LAK"
+  ],
+  "calling_codes": [
+    "856"
+  ],
+  "languages": [
+    "lo"
+  ],
+  "capital": "Vientiane",
+  "id": "LAO",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "latitude": 18,
+    "longitude": 105
+  },
+  "name_translations": {
+    "ja": "ラオス人民民主共和国",
+    "lo": "ສປປລາວ"
+  }
+}

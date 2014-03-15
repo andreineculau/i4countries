@@ -1,0 +1,39 @@
+{
+  "name": "Indonesia",
+  "top_level_domains": [
+    ".id"
+  ],
+  "iso2": "ID",
+  "iso3": "IDN",
+  "ison": 360,
+  "currencies": [
+    "IDR"
+  ],
+  "calling_codes": [
+    "62"
+  ],
+  "languages": [
+    "id"
+  ],
+  "capital": "Jakarta",
+  "id": "IDN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "latitude": -5,
+    "longitude": 120
+  },
+  "name_translations": {
+    "fr": "Indonésie",
+    "nl": "Indonesië",
+    "de": "Indonesien",
+    "ja": "インドネシア",
+    "hr": "Indonezija",
+    "id": "Indonesia"
+  }
+}

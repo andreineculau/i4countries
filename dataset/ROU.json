@@ -1,0 +1,42 @@
+{
+  "name": "Romania",
+  "top_level_domains": [
+    ".ro"
+  ],
+  "iso2": "RO",
+  "iso3": "ROU",
+  "ison": 642,
+  "currencies": [
+    "RON"
+  ],
+  "calling_codes": [
+    "40"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "capital": "Bucharest",
+  "id": "ROU",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "bordering_countries": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "latitude": 46,
+    "longitude": 25
+  },
+  "name_translations": {
+    "de": "Rumänien",
+    "es": "Rumania",
+    "fr": "Roumanie",
+    "ja": "ルーマニア",
+    "nl": "Roemenië",
+    "hr": "Rumunjska",
+    "ro": "România"
+  }
+}

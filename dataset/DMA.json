@@ -1,0 +1,33 @@
+{
+  "name": "Dominica",
+  "top_level_domains": [
+    ".dm"
+  ],
+  "iso2": "DM",
+  "iso3": "DMA",
+  "ison": 212,
+  "currencies": [
+    "XCD"
+  ],
+  "calling_codes": [
+    "1767"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Roseau",
+  "id": "DMA",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 15.41666666,
+    "longitude": -61.33333333
+  },
+  "name_translations": {
+    "fr": "Dominique",
+    "ja": "ドミニカ国",
+    "hr": "Dominika",
+    "en": "Dominica"
+  }
+}

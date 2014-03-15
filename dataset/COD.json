@@ -1,0 +1,50 @@
+{
+  "name": "Democratic Republic of the Congo",
+  "top_level_domains": [
+    ".cd"
+  ],
+  "iso2": "CD",
+  "iso3": "COD",
+  "ison": 180,
+  "currencies": [
+    "CDF"
+  ],
+  "calling_codes": [
+    "243"
+  ],
+  "languages": [
+    "fr",
+    "ln",
+    "kg",
+    "sw",
+    "lu"
+  ],
+  "capital": "Kinshasa",
+  "id": "COD",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "bordering_countries": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "latitude": 0,
+    "longitude": 25
+  },
+  "name_translations": {
+    "de": "Kongo (Dem. Rep.)",
+    "es": "Congo (Rep. Dem.)",
+    "fr": "Congo (Rép. dém.)",
+    "it": "Congo (Rep. Dem.)",
+    "ja": "コンゴ民主共和国",
+    "nl": "Congo [DRC]",
+    "hr": "Kongo, Demokratska Republika"
+  }
+}

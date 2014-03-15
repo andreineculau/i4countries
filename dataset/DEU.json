@@ -1,0 +1,46 @@
+{
+  "name": "Germany",
+  "top_level_domains": [
+    ".de"
+  ],
+  "iso2": "DE",
+  "iso3": "DEU",
+  "ison": 276,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "49"
+  ],
+  "languages": [
+    "de"
+  ],
+  "capital": "Berlin",
+  "id": "DEU",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "latitude": 51,
+    "longitude": 9
+  },
+  "name_translations": {
+    "de": "Deutschland",
+    "es": "Alemania",
+    "fr": "Allemagne",
+    "it": "Germania",
+    "ja": "ドイツ",
+    "nl": "Duitsland",
+    "hr": "Njemačka"
+  }
+}

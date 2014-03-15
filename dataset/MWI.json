@@ -1,0 +1,36 @@
+{
+  "name": "Malawi",
+  "top_level_domains": [
+    ".mw"
+  ],
+  "iso2": "MW",
+  "iso3": "MWI",
+  "ison": 454,
+  "currencies": [
+    "MWK"
+  ],
+  "calling_codes": [
+    "265"
+  ],
+  "languages": [
+    "en",
+    "ny"
+  ],
+  "capital": "Lilongwe",
+  "id": "MWI",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "latitude": -13.5,
+    "longitude": 34
+  },
+  "name_translations": {
+    "ja": "マラウイ",
+    "hr": "Malavi"
+  }
+}

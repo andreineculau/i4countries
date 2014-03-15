@@ -1,0 +1,40 @@
+{
+  "name": "Sweden",
+  "top_level_domains": [
+    ".se"
+  ],
+  "iso2": "SE",
+  "iso3": "SWE",
+  "ison": 752,
+  "currencies": [
+    "SEK"
+  ],
+  "calling_codes": [
+    "46"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "capital": "Stockholm",
+  "id": "SWE",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "FIN",
+      "NOR"
+    ],
+    "latitude": 62,
+    "longitude": 15
+  },
+  "name_translations": {
+    "de": "Schweden",
+    "es": "Suecia",
+    "fr": "Suède",
+    "it": "Svezia",
+    "ja": "スウェーデン",
+    "nl": "Zweden",
+    "hr": "Švedska",
+    "sv": "Sverige"
+  }
+}

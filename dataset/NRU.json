@@ -1,0 +1,31 @@
+{
+  "name": "Nauru",
+  "top_level_domains": [
+    ".nr"
+  ],
+  "iso2": "NR",
+  "iso3": "NRU",
+  "ison": 520,
+  "currencies": [
+    "AUD"
+  ],
+  "calling_codes": [
+    "674"
+  ],
+  "languages": [
+    "en",
+    "na"
+  ],
+  "capital": "Yaren",
+  "id": "NRU",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "bordering_countries": [],
+    "latitude": -0.53333333,
+    "longitude": 166.91666666
+  },
+  "name_translations": {
+    "ja": "ナウル"
+  }
+}

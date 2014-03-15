@@ -1,0 +1,41 @@
+{
+  "name": "Cambodia",
+  "top_level_domains": [
+    ".kh"
+  ],
+  "iso2": "KH",
+  "iso3": "KHM",
+  "ison": 116,
+  "currencies": [
+    "KHR"
+  ],
+  "calling_codes": [
+    "855"
+  ],
+  "languages": [
+    "km"
+  ],
+  "capital": "Phnom Penh",
+  "id": "KHM",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "bordering_countries": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "latitude": 13,
+    "longitude": 105
+  },
+  "name_translations": {
+    "fr": "Cambodge",
+    "nl": "Cambodja",
+    "de": "Kambodscha",
+    "it": "Cambogia",
+    "ja": "カンボジア",
+    "es": "Camboya",
+    "hr": "Kambodža",
+    "km": "Kâmpŭchéa"
+  }
+}

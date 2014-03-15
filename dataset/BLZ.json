@@ -1,0 +1,35 @@
+{
+  "name": "Belize",
+  "top_level_domains": [
+    ".bz"
+  ],
+  "iso2": "BZ",
+  "iso3": "BLZ",
+  "ison": 84,
+  "currencies": [
+    "BZD"
+  ],
+  "calling_codes": [
+    "501"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "capital": "Belmopan",
+  "id": "BLZ",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Central America",
+    "bordering_countries": [
+      "GTM",
+      "MEX"
+    ],
+    "latitude": 17.25,
+    "longitude": -88.75
+  },
+  "name_translations": {
+    "es": "Belice",
+    "ja": "ベリーズ"
+  }
+}

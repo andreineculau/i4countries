@@ -1,0 +1,38 @@
+{
+  "name": "Uganda",
+  "top_level_domains": [
+    ".ug"
+  ],
+  "iso2": "UG",
+  "iso3": "UGA",
+  "ison": 800,
+  "currencies": [
+    "UGX"
+  ],
+  "calling_codes": [
+    "256"
+  ],
+  "languages": [
+    "en",
+    "sw"
+  ],
+  "capital": "Kampala",
+  "id": "UGA",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "latitude": 1,
+    "longitude": 32
+  },
+  "name_translations": {
+    "ja": "ウガンダ",
+    "nl": "Oeganda"
+  }
+}

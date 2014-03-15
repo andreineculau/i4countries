@@ -1,0 +1,39 @@
+{
+  "name": "Denmark",
+  "top_level_domains": [
+    ".dk"
+  ],
+  "iso2": "DK",
+  "iso3": "DNK",
+  "ison": 208,
+  "currencies": [
+    "DKK"
+  ],
+  "calling_codes": [
+    "45"
+  ],
+  "languages": [
+    "da"
+  ],
+  "capital": "Copenhagen",
+  "id": "DNK",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [
+      "DEU"
+    ],
+    "latitude": 56,
+    "longitude": 10
+  },
+  "name_translations": {
+    "de": "Dänemark",
+    "es": "Dinamarca",
+    "fr": "Danemark",
+    "it": "Danimarca",
+    "ja": "デンマーク",
+    "nl": "Denemarken",
+    "hr": "Danska",
+    "da": "Danmark"
+  }
+}

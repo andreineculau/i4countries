@@ -1,0 +1,38 @@
+{
+  "name": "Guinea-Bissau",
+  "top_level_domains": [
+    ".gw"
+  ],
+  "iso2": "GW",
+  "iso3": "GNB",
+  "ison": 624,
+  "currencies": [
+    "XOF"
+  ],
+  "calling_codes": [
+    "245"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "capital": "Bissau",
+  "id": "GNB",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "GIN",
+      "SEN"
+    ],
+    "latitude": 12,
+    "longitude": -15
+  },
+  "name_translations": {
+    "es": "Guinea-Bisáu",
+    "fr": "Guinée-Bissau",
+    "ja": "ギニアビサウ",
+    "nl": "Guinee-Bissau",
+    "hr": "Gvineja Bisau",
+    "pt": "Guiné-Bissau"
+  }
+}

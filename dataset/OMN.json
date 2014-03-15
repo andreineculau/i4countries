@@ -1,0 +1,37 @@
+{
+  "name": "Oman",
+  "top_level_domains": [
+    ".om"
+  ],
+  "iso2": "OM",
+  "iso3": "OMN",
+  "ison": 512,
+  "currencies": [
+    "OMR"
+  ],
+  "calling_codes": [
+    "968"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "capital": "Muscat",
+  "id": "OMN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "bordering_countries": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "latitude": 21,
+    "longitude": 57
+  },
+  "name_translations": {
+    "es": "Omán",
+    "it": "oman",
+    "ja": "オマーン",
+    "ar": "عمان"
+  }
+}

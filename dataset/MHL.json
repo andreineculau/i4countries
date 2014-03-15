@@ -1,0 +1,37 @@
+{
+  "name": "Marshall Islands",
+  "top_level_domains": [
+    ".mh"
+  ],
+  "iso2": "MH",
+  "iso3": "MHL",
+  "ison": 584,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "692"
+  ],
+  "languages": [
+    "en",
+    "mh"
+  ],
+  "capital": "Majuro",
+  "id": "MHL",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "bordering_countries": [],
+    "latitude": 9,
+    "longitude": 168
+  },
+  "name_translations": {
+    "de": "Marshallinseln",
+    "es": "Islas Marshall",
+    "fr": "Îles Marshall",
+    "it": "Isole Marshall",
+    "ja": "マーシャル諸島",
+    "nl": "Marshalleilanden",
+    "hr": "Maršalovi Otoci"
+  }
+}

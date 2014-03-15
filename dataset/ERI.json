@@ -1,0 +1,38 @@
+{
+  "name": "Eritrea",
+  "top_level_domains": [
+    ".er"
+  ],
+  "iso2": "ER",
+  "iso3": "ERI",
+  "ison": 232,
+  "currencies": [
+    "ERN"
+  ],
+  "calling_codes": [
+    "291"
+  ],
+  "languages": [
+    "ti",
+    "ar",
+    "en"
+  ],
+  "capital": "Asmara",
+  "id": "ERI",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "latitude": 15,
+    "longitude": 39
+  },
+  "name_translations": {
+    "fr": "Érythrée",
+    "ja": "エリトリア",
+    "hr": "Eritreja"
+  }
+}

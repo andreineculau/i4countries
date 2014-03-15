@@ -1,0 +1,35 @@
+{
+  "name": "Puerto Rico",
+  "top_level_domains": [
+    ".pr"
+  ],
+  "iso2": "PR",
+  "iso3": "PRI",
+  "ison": 630,
+  "currencies": [
+    "USD"
+  ],
+  "calling_codes": [
+    "1787",
+    "1939"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "capital": "San Juan",
+  "id": "PRI",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 18.25,
+    "longitude": -66.5
+  },
+  "name_translations": {
+    "fr": "Porto Rico",
+    "it": "Porto Rico",
+    "ja": "プエルトリコ",
+    "hr": "Portoriko"
+  }
+}

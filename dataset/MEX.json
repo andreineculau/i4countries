@@ -1,0 +1,39 @@
+{
+  "name": "Mexico",
+  "top_level_domains": [
+    ".mx"
+  ],
+  "iso2": "MX",
+  "iso3": "MEX",
+  "ison": 484,
+  "currencies": [
+    "MXN"
+  ],
+  "calling_codes": [
+    "52"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Mexico City",
+  "id": "MEX",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Central America",
+    "bordering_countries": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "latitude": 23,
+    "longitude": -102
+  },
+  "name_translations": {
+    "de": "Mexiko",
+    "es": "México",
+    "fr": "Mexique",
+    "it": "Messico",
+    "ja": "メキシコ",
+    "hr": "Meksiko"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "South Korea",
+  "top_level_domains": [
+    ".kr"
+  ],
+  "iso2": "KR",
+  "iso3": "KOR",
+  "ison": 410,
+  "currencies": [
+    "KRW"
+  ],
+  "calling_codes": [
+    "82"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "capital": "Seoul",
+  "id": "KOR",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "bordering_countries": [
+      "PRK"
+    ],
+    "latitude": 37,
+    "longitude": 127.5
+  },
+  "name_translations": {
+    "de": "Südkorea",
+    "es": "Corea del Sur",
+    "fr": "Corée du Sud",
+    "it": "Corea del Sud",
+    "ja": "大韓民国",
+    "nl": "Zuid-Korea",
+    "hr": "Južna Koreja",
+    "ko": "대한민국"
+  }
+}

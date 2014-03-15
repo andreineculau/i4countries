@@ -1,0 +1,50 @@
+{
+  "name": "China",
+  "top_level_domains": [
+    ".cn"
+  ],
+  "iso2": "CN",
+  "iso3": "CHN",
+  "ison": 156,
+  "currencies": [
+    "CNY"
+  ],
+  "calling_codes": [
+    "86"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "capital": "Beijing",
+  "id": "CHN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "bordering_countries": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "latitude": 35,
+    "longitude": 105
+  },
+  "name_translations": {
+    "fr": "Chine",
+    "it": "Cina",
+    "ja": "中国",
+    "hr": "Kina",
+    "zh": "中国"
+  }
+}

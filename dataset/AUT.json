@@ -1,0 +1,43 @@
+{
+  "name": "Austria",
+  "top_level_domains": [
+    ".at"
+  ],
+  "iso2": "AT",
+  "iso3": "AUT",
+  "ison": 40,
+  "currencies": [
+    "EUR"
+  ],
+  "calling_codes": [
+    "43"
+  ],
+  "languages": [
+    "de"
+  ],
+  "capital": "Vienna",
+  "id": "AUT",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "bordering_countries": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "latitude": 47.33333333,
+    "longitude": 13.33333333
+  },
+  "name_translations": {
+    "de": "Österreich",
+    "fr": "Autriche",
+    "ja": "オーストリア",
+    "nl": "Oostenrijk",
+    "hr": "Austrija"
+  }
+}

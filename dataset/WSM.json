@@ -1,0 +1,31 @@
+{
+  "name": "Samoa",
+  "top_level_domains": [
+    ".ws"
+  ],
+  "iso2": "WS",
+  "iso3": "WSM",
+  "ison": 882,
+  "currencies": [
+    "WST"
+  ],
+  "calling_codes": [
+    "685"
+  ],
+  "languages": [
+    "sm",
+    "en"
+  ],
+  "capital": "Apia",
+  "id": "WSM",
+  "geolocation": {
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "bordering_countries": [],
+    "latitude": -13.58333333,
+    "longitude": -172.33333333
+  },
+  "name_translations": {
+    "ja": "サモア"
+  }
+}

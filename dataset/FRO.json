@@ -1,0 +1,37 @@
+{
+  "name": "Faroe Islands",
+  "top_level_domains": [
+    ".fo"
+  ],
+  "iso2": "FO",
+  "iso3": "FRO",
+  "ison": 234,
+  "currencies": [
+    "DKK"
+  ],
+  "calling_codes": [
+    "298"
+  ],
+  "languages": [
+    "fo"
+  ],
+  "capital": "Tórshavn",
+  "id": "FRO",
+  "geolocation": {
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "bordering_countries": [],
+    "latitude": 62,
+    "longitude": -7
+  },
+  "name_translations": {
+    "de": "Färöer-Inseln",
+    "es": "Islas Faroe",
+    "fr": "Îles Féroé",
+    "it": "Isole Far Oer",
+    "ja": "フェロー諸島",
+    "nl": "Faeröer",
+    "hr": "Farski Otoci",
+    "fo": "Føroyar"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Nicaragua",
+  "top_level_domains": [
+    ".ni"
+  ],
+  "iso2": "NI",
+  "iso3": "NIC",
+  "ison": 558,
+  "currencies": [
+    "NIO"
+  ],
+  "calling_codes": [
+    "505"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Managua",
+  "id": "NIC",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Central America",
+    "bordering_countries": [
+      "CRI",
+      "HND"
+    ],
+    "latitude": 13,
+    "longitude": -85
+  },
+  "name_translations": {
+    "ja": "ニカラグア",
+    "hr": "Nikaragva",
+    "es": "Nicaragua"
+  }
+}

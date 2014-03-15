@@ -1,0 +1,33 @@
+{
+  "name": "Japan",
+  "top_level_domains": [
+    ".jp"
+  ],
+  "iso2": "JP",
+  "iso3": "JPN",
+  "ison": 392,
+  "currencies": [
+    "JPY"
+  ],
+  "calling_codes": [
+    "81"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "capital": "Tokyo",
+  "id": "JPN",
+  "geolocation": {
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "bordering_countries": [],
+    "latitude": 36,
+    "longitude": 138
+  },
+  "name_translations": {
+    "es": "Japón",
+    "fr": "Japon",
+    "it": "Giappone",
+    "ja": "日本"
+  }
+}

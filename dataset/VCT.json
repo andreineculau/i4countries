@@ -1,0 +1,37 @@
+{
+  "name": "Saint Vincent and the Grenadines",
+  "top_level_domains": [
+    ".vc"
+  ],
+  "iso2": "VC",
+  "iso3": "VCT",
+  "ison": 670,
+  "currencies": [
+    "XCD"
+  ],
+  "calling_codes": [
+    "1784"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Kingstown",
+  "id": "VCT",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "bordering_countries": [],
+    "latitude": 13.25,
+    "longitude": -61.2
+  },
+  "name_translations": {
+    "de": "Saint Vincent und die Grenadinen",
+    "es": "San Vicente y Granadinas",
+    "fr": "Saint-Vincent-et-les-Grenadines",
+    "it": "Saint Vincent e Grenadine",
+    "ja": "セントビンセントおよびグレナディーン諸島",
+    "nl": "Saint Vincent en de Grenadines",
+    "hr": "Sveti Vincent i Grenadini",
+    "en": "Saint Vincent and the Grenadines"
+  }
+}

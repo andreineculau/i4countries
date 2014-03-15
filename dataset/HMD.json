@@ -1,0 +1,38 @@
+{
+  "name": "Heard Island and McDonald Islands",
+  "top_level_domains": [
+    ".hm",
+    ".aq"
+  ],
+  "iso2": "HM",
+  "iso3": "HMD",
+  "ison": 334,
+  "currencies": [
+    "AUD"
+  ],
+  "calling_codes": [
+    ""
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "",
+  "id": "HMD",
+  "geolocation": {
+    "region": "",
+    "subregion": "",
+    "bordering_countries": [],
+    "latitude": -53.1,
+    "longitude": 72.51666666
+  },
+  "name_translations": {
+    "de": "Heard und die McDonaldinseln",
+    "es": "Islas Heard y McDonald",
+    "fr": "Îles Heard-et-MacDonald",
+    "it": "Isole Heard e McDonald",
+    "ja": "ハード島とマクドナルド諸島",
+    "nl": "Heard- en McDonaldeilanden",
+    "hr": "Otok Heard i otočje McDonald",
+    "en": "Heard Island and McDonald Islands"
+  }
+}

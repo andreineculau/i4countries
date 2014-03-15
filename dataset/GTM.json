@@ -1,0 +1,37 @@
+{
+  "name": "Guatemala",
+  "top_level_domains": [
+    ".gt"
+  ],
+  "iso2": "GT",
+  "iso3": "GTM",
+  "ison": 320,
+  "currencies": [
+    "GTQ"
+  ],
+  "calling_codes": [
+    "502"
+  ],
+  "languages": [
+    "es"
+  ],
+  "capital": "Guatemala City",
+  "id": "GTM",
+  "geolocation": {
+    "region": "Americas",
+    "subregion": "Central America",
+    "bordering_countries": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "latitude": 15.5,
+    "longitude": -90.25
+  },
+  "name_translations": {
+    "ja": "グアテマラ",
+    "hr": "Gvatemala",
+    "es": "Guatemala"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Tanzania",
+  "top_level_domains": [
+    ".tz"
+  ],
+  "iso2": "TZ",
+  "iso3": "TZA",
+  "ison": 834,
+  "currencies": [
+    "TZS"
+  ],
+  "calling_codes": [
+    "255"
+  ],
+  "languages": [
+    "sw",
+    "en"
+  ],
+  "capital": "Dodoma",
+  "id": "TZA",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "bordering_countries": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "latitude": -6,
+    "longitude": 35
+  },
+  "name_translations": {
+    "de": "Tansania",
+    "fr": "Tanzanie",
+    "ja": "タンザニア",
+    "hr": "Tanzanija"
+  }
+}

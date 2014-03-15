@@ -1,0 +1,38 @@
+{
+  "name": "Nigeria",
+  "top_level_domains": [
+    ".ng"
+  ],
+  "iso2": "NG",
+  "iso3": "NGA",
+  "ison": 566,
+  "currencies": [
+    "NGN"
+  ],
+  "calling_codes": [
+    "234"
+  ],
+  "languages": [
+    "en"
+  ],
+  "capital": "Abuja",
+  "id": "NGA",
+  "geolocation": {
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "bordering_countries": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "latitude": 10,
+    "longitude": 8
+  },
+  "name_translations": {
+    "fr": "Nigéria",
+    "ja": "ナイジェリア",
+    "hr": "Nigerija",
+    "en": "Nigeria"
+  }
+}
