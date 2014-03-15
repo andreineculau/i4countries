@@ -1,3 +1,6 @@
 [submodule "sources/countries"]
 	path = sources/countries
 	url = https://github.com/mledoze/countries.git
+[submodule ".coffee.mk"]
+	path = .coffee.mk
+	url = git://github.com/andreineculau/coffee.mk
